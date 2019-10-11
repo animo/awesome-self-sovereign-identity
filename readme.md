@@ -8,8 +8,8 @@
 
 - [General](#general)
 - [Specifications](#specifications)
-  - [Decentralized Identifiers](#decentralized-identifiers)
-  - [Verifiable Credentials](#verifiable-credentials)
+  - [Decentralized Identifiers](#decentralized-identifiers-dids)
+  - [Verifiable Credentials](#verifiable-credentials-vcs)
 - [Networks](#networks)
 - [Frameworks](#frameworks)
 - [Contribute](#contribute)
@@ -22,15 +22,15 @@
 
 ## Specifications
 
-### Decentralized Identifiers
+### Decentralized Identifiers (DIDs)
 
 - [Official W3C Specification](https://w3c-ccg.github.io/did-spec/)
-- [Decentralized Identifiers 101 (SSI Meetup)](https://ssimeetup.org/decentralized-identifiers-did-fundamental-block-self-sovereign-identity-drummond-reed-webinar-2/) - A SSI Meetup webinar by Drummond Reed about DID's
+- [Decentralized Identifiers 101 (SSI Meetup)](https://ssimeetup.org/decentralized-identifiers-did-fundamental-block-self-sovereign-identity-drummond-reed-webinar-2/) - A SSI Meetup webinar by Drummond Reed about DIDs
 
-### Verifiable Credentials
+### Verifiable Credentials (VCs)
 
 - [Official W3C Data Model](https://www.w3.org/TR/vc-data-model/)
-- [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VC's
+- [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs
 
 ## Networks
 
