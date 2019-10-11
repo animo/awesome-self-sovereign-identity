@@ -1,4 +1,6 @@
-# Awesome Self Sovereign Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Self Sovereign Identity 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of self-sovereign identity resources.
 
