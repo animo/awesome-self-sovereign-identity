@@ -5,7 +5,7 @@
 > A curated list of self-sovereign identity resources.
 
 ## Contents
-
+- [Getting Started](#getting-started)
 - [General](#general)
 - [Specifications](#specifications)
   - [Decentralized Identifiers](#decentralized-identifiers-dids)
@@ -15,8 +15,11 @@
 - [Contribute](#contribute)
 - [License](#license)
 
-## General
+## Getting Started
+- [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872) - Introductory medium article on SSI and it's 10 principles
+- [The 10 Principles of Self-Sovereign Identity by Christopher Allen](https://wiki.p2pfoundation.net/Self-Sovereign_Identity#Ten_Principles_of_Self-Sovereign_Identity)
 
+## General
 - [Decentralized Identity Foundation](https://identity.foundation)
 - [SSI Meetup Webinars](https://ssimeetup.org/blog) - Webinars about Self-Sovereign Identity
 
