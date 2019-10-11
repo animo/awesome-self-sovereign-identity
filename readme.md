@@ -6,14 +6,17 @@
 
 
 ## Contents
+- [General](#general)
 - [Specifications](#specifications)
     - [Decentralized Identifiers](#decentralized-identifiers)
     - [Verifiable Credentials](#verifiable-credentials)
 - [Contribute](#contribute)
 - [License](#license)
 
-## Specifications
+## General
+- [Decentralized Identity Foundation](https://identity.foundation)
 
+## Specifications
 ### Decentralized Identifiers
 
 - [Official W3C Specification](https://w3c-ccg.github.io/did-spec/)
