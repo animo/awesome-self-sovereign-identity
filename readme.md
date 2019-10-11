@@ -10,6 +10,7 @@
 - [Specifications](#specifications)
     - [Decentralized Identifiers](#decentralized-identifiers)
     - [Verifiable Credentials](#verifiable-credentials)
+- [Networks](#networks)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -17,16 +18,17 @@
 - [Decentralized Identity Foundation](https://identity.foundation)
 
 ## Specifications
+
 ### Decentralized Identifiers
-
 - [Official W3C Specification](https://w3c-ccg.github.io/did-spec/)
+- [Decentralized Identifiers 101 (SSI Meetup)](https://www.youtube.com/watch?v=Jcfy9wd5bZI) - A SSI Meetup talk by Drummond Reed about DIDs (youtube)
 
-
-
-### Verifiable Credentials
-
+### Verifiable Credentials (VCs)
 - [Official W3C Data Model](https://www.w3.org/TR/vc-data-model/)
+- [Verifiable Credentials 101 (SSI Meetup)](https://www.youtube.com/watch?v=6O_iJnhIh5o) - A SSI Meetup talk by Tyler Ruff about VC's (youtube)
 
+## Networks
+- [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy
 
 ## Contribute
 
