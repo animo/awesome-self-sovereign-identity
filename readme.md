@@ -39,11 +39,8 @@
 ## Frameworks
 
 - [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) - Distributed Ledger built for decentralized identity.
-
 - [Hyperledger Aries](https://www.hyperledger.org/projects/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
-
   - [Hyperledger Aries (SSI Meetup)](https://ssimeetup.org/hyperledger-aries-open-source-interoperable-identity-solutions-nathan-george-webinar-30/) - A SSI Meetup webinar by Nathan George about Hyperledger Aries
-
 - [Universal Ledger Agent](https://github.com/rabobank-blockchain/universal-ledger-agent) - Framework for managing Self-Sovereign Identity data.
   - [Introduction Paper](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)
   - [Zero-Knowledge Proofs](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zero-knowledge-proofs-and-vc-in-social-housing.md)
