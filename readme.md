@@ -1,4 +1,4 @@
-# Awesome Self Sovereign Identity
+# Awesome Self-Sovereign Identity
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
