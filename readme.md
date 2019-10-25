@@ -13,21 +13,22 @@
   - [Verifiable Credentials](#verifiable-credentials-vcs)
 - [Networks](#networks)
 - [Frameworks](#frameworks)
+- [Inspiration](#inspiration)
 - [Contribute](#contribute)
 - [License](#license)
 
 ## Getting Started
 
 - [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872) - Introductory medium article on SSI and it's 10 principles
-- [The 10 Principles of Self-Sovereign Identity by Christopher Allen](https://wiki.p2pfoundation.net/Self-Sovereign_Identity#Ten_Principles_of_Self-Sovereign_Identity)
+- [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+  - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
+  - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - by Timmothy Ruff
 
 ## General
 
-- [Decentralized Identity Foundation](https://identity.foundation)
+- [Decentralized Identity Foundation](https://identity.foundation) - Focused on developing the foundational components of an open, standards-based, decentralized identity ecosystem
 - [SSI Meetup Webinars](https://ssimeetup.org/blog) - Webinars about Self-Sovereign Identity
-- [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
-  - [10 Principles of Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
-  - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md)
+- [Matching Identity Management Solutions to Self-Sovereign Identity Principles](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles/1) - An analysis of almost 50 (blockchain based) digital identity solutions matched against SSI principles
 
 ## Specifications
 
@@ -53,6 +54,11 @@
 - [Universal Ledger Agent](https://github.com/rabobank-blockchain/universal-ledger-agent) - Framework for managing Self-Sovereign Identity data.
   - [Introduction Paper](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)
   - [Zero-Knowledge Proofs](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zero-knowledge-proofs-and-vc-in-social-housing.md)
+- [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
+
+## Inspiration
+
+- [The Invisible Man (TEDxAmsterdam)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](tykn.tech).
 
 ## Contribute
 
