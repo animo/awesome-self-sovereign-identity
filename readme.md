@@ -41,6 +41,7 @@
 
 - [Official W3C Data Model](https://www.w3.org/TR/vc-data-model/)
 - [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs
+- [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) - Concrete example scenarios that make use of Verifiable Credentials
 
 ## Networks
 
