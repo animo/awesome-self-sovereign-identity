@@ -58,7 +58,7 @@
 
 ## Inspiration
 
-- [The Invisible Man (TEDxAmsterdam)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](tykn.tech).
+- [The Invisible Man (TEDxAmsterdam)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](https://tykn.tech).
 
 ## Contribute
 
