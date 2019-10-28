@@ -36,6 +36,7 @@
 
 - [Official W3C Specification](https://w3c-ccg.github.io/did-spec/)
 - [Decentralized Identifiers 101 (SSI Meetup)](https://ssimeetup.org/decentralized-identifiers-did-fundamental-block-self-sovereign-identity-drummond-reed-webinar-2/) - A SSI Meetup webinar by Drummond Reed about DIDs
+- [Uniresolver](https://uniresolver.io/) - Online Universal DID Resolver
 
 ### Verifiable Credentials (VCs)
 
