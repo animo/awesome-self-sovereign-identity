@@ -8,21 +8,25 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Contents
 
+
 - [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
   - [Contents](#contents)
   - [Basic Introduction](#basic-introduction)
-  - [Collected Knowledge](#collected-knowledge)
+  - [Collected knowledge](#collected-knowledge)
   - [Specifications](#specifications)
     - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
     - [Verifiable Credentials (VCs)](#verifiable-credentials-vcs)
   - [Networks](#networks)
   - [Projects and Applications](#projects-and-applications)
-    - [Hyperledger Indy](#hyperledger-indy)
     - [Hyperledger Aries](#hyperledger-aries)
-        - [Open Source Building Blocks](#open-source-building-blocks)
-        - [Implementations](#implementations)
-    - [uPort](#uport)
+      - [Open Source Building Blocks](#open-source-building-blocks)
+      - [Implementations](#implementations)
+    - [Hyperledger Indy](#hyperledger-indy)
+    - [IOTA](#iota)
+      - [Open Source Building Blocks](#open-source-building-blocks-1)
+      - [Implementations](#implementations-1)
     - [Universal Ledger Agent](#universal-ledger-agent)
+    - [uPort](#uport)
   - [Papers, Books and Articles](#papers-books-and-articles)
   - [Inspiration](#inspiration)
   - [Contribute](#contribute)
@@ -66,10 +70,6 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Projects and Applications
 
-### Hyperledger Indy
-
-- [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) - Distributed Ledger built for decentralized identity.
-
 ### Hyperledger Aries
 
 - https://www.edx.org/course/becoming-a-hyperledger-aries-developer
@@ -100,9 +100,9 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
   - [Connect.Me - Mobile Wallet App](https://www.evernym.com/products/)
   - [Mobile Wallet SDK](https://www.evernym.com/products/)
 
-### uPort
+### Hyperledger Indy
 
-- [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
+- [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) - Distributed Ledger built for decentralized identity.
 
 ### IOTA
 
@@ -119,6 +119,12 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Universal Ledger Agent](https://github.com/rabobank-blockchain/universal-ledger-agent) - Framework for managing Self-Sovereign Identity data.
   - [Introduction Paper](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)
   - [Zero-Knowledge Proofs](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zero-knowledge-proofs-and-vc-in-social-housing.md)
+
+### uPort
+
+- [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
+
+
 
 ## Papers, Books and Articles
 
