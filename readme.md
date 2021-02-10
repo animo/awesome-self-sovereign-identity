@@ -16,7 +16,6 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
     - [Does Self-sovereign identity require a blockchain?](#does-self-sovereign-identity-require-a-blockchain)
     - [Is any personal data stored on a blockchain?](#is-any-personal-data-stored-on-a-blockchain)
   - [Basic Introduction](#basic-introduction)
-    - [The 10 Principles](#the-10-principles)
   - [Collected Knowledge](#collected-knowledge)
   - [Specifications](#specifications)
     - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
@@ -65,8 +64,6 @@ In 2016 Christopher Allen first came up with the vision for self-sovereign ident
 - [How to Convince Dad\* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) - \*and your sister and your daughter and your best friend and your nephew.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
   - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - by Timmothy Ruff
-
-### The 10 Principles
 
 ## Collected Knowledge
 
