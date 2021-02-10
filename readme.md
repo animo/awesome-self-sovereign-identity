@@ -8,22 +8,23 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Contents
 
-
 - [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
   - [Contents](#contents)
   - [Basic Introduction](#basic-introduction)
   - [Collected Knowledge](#collected-knowledge)
   - [Specifications](#specifications)
     - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
+      - [Open Source Building Blocks](#open-source-building-blocks)
     - [Verifiable Credentials (VCs)](#verifiable-credentials-vcs)
+      - [Open Source Building Blocks](#open-source-building-blocks-1)
   - [Networks](#networks)
   - [Projects and Applications](#projects-and-applications)
     - [Hyperledger Aries](#hyperledger-aries)
-      - [Open Source Building Blocks](#open-source-building-blocks)
+      - [Open Source Building Blocks](#open-source-building-blocks-2)
       - [Implementations](#implementations)
     - [Hyperledger Indy](#hyperledger-indy)
     - [IOTA](#iota)
-      - [Open Source Building Blocks](#open-source-building-blocks-1)
+      - [Open Source Building Blocks](#open-source-building-blocks-3)
       - [Implementations](#implementations-1)
     - [Universal Ledger Agent](#universal-ledger-agent)
     - [uPort](#uport)
@@ -59,11 +60,15 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Decentralized Identifiers 101 (SSI Meetup)](https://ssimeetup.org/decentralized-identifiers-did-fundamental-block-self-sovereign-identity-drummond-reed-webinar-2/) - A SSI Meetup webinar by Drummond Reed about DIDs
 - [Uniresolver](https://uniresolver.io/) - Online Universal DID Resolver
 
+#### Open Source Building Blocks
+
 ### Verifiable Credentials (VCs)
 
 - [Official W3C Data Model](https://www.w3.org/TR/vc-data-model/)
 - [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs
 - [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) - Concrete example scenarios that make use of Verifiable Credentials
+
+#### Open Source Building Blocks
 
 ## Networks
 
@@ -73,18 +78,20 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ### Hyperledger Aries
 
-- https://www.edx.org/course/becoming-a-hyperledger-aries-developer
-- https://github.com/hyperledger/aries-cloudagent-python/blob/master/docs/GettingStartedAriesDev/README.md
 - [Hyperledger Aries](https://github.com/hyperledger/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
   - [Hyperledger Aries (SSI Meetup)](https://ssimeetup.org/hyperledger-aries-open-source-interoperable-identity-solutions-nathan-george-webinar-30/) - A SSI Meetup webinar by Nathan George about Hyperledger Aries
+- [Becoming a Hyperledger Aries Developer Course](https://www.edx.org/course/becoming-a-hyperledger-aries-developer)
+- [Becoming an Indy/Aries Developer](https://github.com/hyperledger/aries-cloudagent-python/blob/master/docs/GettingStartedAriesDev/README.md)
 
 #### Open Source Building Blocks
+
 
 - [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
 - [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet)
 - [Aries Framework Go](https://github.com/hyperledger/aries-framework-go)
 - [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
-- [Aries Mobile Agent Xamarin]
+- [Aries Mobile Agent React Native](https://github.com/animo/aries-mobile-agent-react-native)
+- [Aries Mobile Agent Xamarin](https://github.com/hyperledger/aries-mobileagent-xamarin)
 - [Aries SDK Ruby](https://github.com/hyperledger/aries-sdk-ruby)
 
 - [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
