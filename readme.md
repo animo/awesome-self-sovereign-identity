@@ -11,6 +11,7 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
   - [Contents](#contents)
   - [Basic Introduction](#basic-introduction)
+  - [Collected Knowledge](#collected-knowledge)
   - [Specifications](#specifications)
     - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
     - [Verifiable Credentials (VCs)](#verifiable-credentials-vcs)
@@ -29,14 +30,19 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Basic Introduction
 
-- [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872) - Introductory medium article on SSI and it's 10 principles
+- [Self-Sovereign Identity: The Ultimate Beginners Guide](https://tykn.tech/self-sovereign-identity/)
+- [Understanding Self-Sovereign Identity Through the Example of Renting a Property](https://www.youtube.com/watch?v=81GkdBRmsbE)
+- [The Evolution of Identity and the Introduction of the 10 Guiding Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - by Christopher Allen
+- [Explaining Decentralized Identity Visually](https://www.youtube.com/watch?v=Ew-_F-OtDFI)
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
-  - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
   - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - by Timmothy Ruff
+  - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
 
-* [Decentralized Identity Foundation](https://identity.foundation) - Focused on developing the foundational components of an open, standards-based, decentralized identity ecosystem
-* [SSI Meetup Webinars](https://ssimeetup.org/blog) - Webinars about Self-Sovereign Identity
-* [Matching Identity Management Solutions to Self-Sovereign Identity Principles](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles/1) - An analysis of almost 50 (blockchain based) digital identity solutions matched against SSI principles
+## Collected knowledge
+
+- [Decentralized Identity Foundation](https://identity.foundation) - Focused on developing the foundational components of an open, standards-based, decentralized identity ecosystem
+- [SSI Meetup Webinars](https://ssimeetup.org/blog) - Webinars about Self-Sovereign Identity
+- [Matching Identity Management Solutions to Self-Sovereign Identity Principles](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles/1) - An analysis of almost 50 (blockchain based) digital identity solutions matched against SSI principles
 
 ## Specifications
 
@@ -62,38 +68,37 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ### Hyperledger Indy
 
-- node, sdk, ...
-
 - [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) - Distributed Ledger built for decentralized identity.
--
 
 ### Hyperledger Aries
 
 - https://www.edx.org/course/becoming-a-hyperledger-aries-developer
 - https://github.com/hyperledger/aries-cloudagent-python/blob/master/docs/GettingStartedAriesDev/README.md
-- [Hyperledger Aries](https://www.hyperledger.org/projects/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
+- [Hyperledger Aries](https://github.com/hyperledger/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
   - [Hyperledger Aries (SSI Meetup)](https://ssimeetup.org/hyperledger-aries-open-source-interoperable-identity-solutions-nathan-george-webinar-30/) - A SSI Meetup webinar by Nathan George about Hyperledger Aries
 
 ##### Open Source Building Blocks
 
-- [Aries Cloud Agent Python]
-- [Aries Framework .NET]
-- [Aries Framework Go]
-- [Aries Framework JavaScript]
+- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
+- [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet)
+- [Aries Framework Go](https://github.com/hyperledger/aries-framework-go)
+- [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
 - [Aries Mobile Agent Xamarin]
-- [Aries SDK Ruby]
+- [Aries SDK Ruby](https://github.com/hyperledger/aries-sdk-ruby)
+
+- [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
 
 ##### Implementations
 
-- [Trinsic Cloud Platform] - built on top of Aries Framework .NET
-  - [iOS Wallet]
-  - [Android Wallet]
-  - [Cloud Agent]
-- [VON Network] - built on top of Aries Cloud Agent Python
-- [esatus]
-- [Evernym]
-  - Verity
-  - Connect.Me
+- [Trinsic](https://trinsic.id/) - builds on top of Aries Framework .NET
+  - [Trinsic Studio - End-to-end Self Sovereign Identity Platform](https://trinsic.id/trinsic-studio/)
+  - [Trinsic Wallet - Mobile Wallet App](https://trinsic.id/trinsic-wallet/)
+  - [Mobile Wallet SDK](https://trinsic.id/mobile-wallet-sdk/)
+- [The Verifiable Organizations Network (VON)](https://github.com/bcgov/von) - built on top of Aries Cloud Agent Python
+- [Evernym](https://www.evernym.com/)
+  - [Verity - Platform for Issuing and Verifying Digital Credentials](https://www.evernym.com/products/)
+  - [Connect.Me - Mobile Wallet App](https://www.evernym.com/products/)
+  - [Mobile Wallet SDK](https://www.evernym.com/products/)
 
 ### uPort
 
@@ -109,7 +114,9 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Inspiration
 
-- [The Invisible Man (TEDxAmsterdam)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](https://tykn.tech).
+- [Ideology & Architecture of Self-Sovereign Identity (Odyssey Connect 2020)](https://youtu.be/JzM_Brpk95E) -  Historical, technological and ethical aspects of Self-Sovereign Identity.
+- [The Invisible Man (TEDxAmsterdam 2018)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](https://tykn.tech).
+
 
 ## Contribute
 
