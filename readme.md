@@ -77,7 +77,7 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Hyperledger Aries](https://github.com/hyperledger/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
   - [Hyperledger Aries (SSI Meetup)](https://ssimeetup.org/hyperledger-aries-open-source-interoperable-identity-solutions-nathan-george-webinar-30/) - A SSI Meetup webinar by Nathan George about Hyperledger Aries
 
-##### Open Source Building Blocks
+#### Open Source Building Blocks
 
 - [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
 - [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet)
@@ -88,7 +88,7 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 - [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
 
-##### Implementations
+#### Implementations
 
 - [Trinsic](https://trinsic.id/) - builds on top of Aries Framework .NET
   - [Trinsic Studio - End-to-end Self Sovereign Identity Platform](https://trinsic.id/trinsic-studio/)
@@ -103,6 +103,16 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 ### uPort
 
 - [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
+
+### IOTA
+
+- [The Case For a Unified Identity](https://files.iota.org/comms/IOTA_The_Case_for_a_Unified_Identity.pdf)
+
+#### Open Source Building Blocks
+- [IOTA Identity](https://github.com/iotaledger/identity.rs)
+
+#### Implementations
+- [Selv - Mobile Wallet App](https://selv.iota.org/demo/app)
 
 ### Universal Ledger Agent
 
