@@ -8,10 +8,15 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Contents
 
+<details><summary>Click to expand</summary>
+
 - [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
   - [Contents](#contents)
   - [FAQ](#faq)
+    - [Does Self-sovereign identity require a blockchain?](#does-self-sovereign-identity-require-a-blockchain)
+    - [Is any personal data stored on a blockchain?](#is-any-personal-data-stored-on-a-blockchain)
   - [Basic Introduction](#basic-introduction)
+    - [The 10 Principles](#the-10-principles)
   - [Collected Knowledge](#collected-knowledge)
   - [Specifications](#specifications)
     - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
@@ -34,18 +39,34 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
   - [Contribute](#contribute)
   - [License](#license)
 
+</details>
+
 ## FAQ
+
+### Does Self-sovereign identity require a blockchain?
+
+No not necessarily, but it does provide some useful features.
+
+This article by IBM tries to give a clear overview on the subject: [
+Self-sovereign identity: Why blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain)
+
+### Is any personal data stored on a blockchain?
+
+No. Personal data should never be stored in a blockchain, and in a **true** self-sovereign identity system no personal data is ever stored on a blockchain.
 
 ## Basic Introduction
 
+In 2016 Christopher Allen first came up with the vision for self-sovereign identity. With it came a proposal list of 10 guiding principles that make a digital identity self-sovereign. Since then these principles have been at the core of every self-sovereign identity solution. It could be stated that an identity can not be called self-sovereign if it does not conform to these principles.
+
+- [10 Principles of Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - The Evolution of Identity, with the Path to self-sovereign identity and it's 10 Guiding Principles by Christopher Allen
 - [Self-Sovereign Identity: The Ultimate Beginners Guide](https://tykn.tech/self-sovereign-identity/)
-- [Understanding Self-Sovereign Identity Through the Example of Renting a Property](https://www.youtube.com/watch?v=81GkdBRmsbE)
-- [The Evolution of Identity and the Introduction of the 10 Guiding Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - by Christopher Allen
-- [Explaining Decentralized Identity Visually](https://www.youtube.com/watch?v=Ew-_F-OtDFI)
+- [Video: Understanding Self-Sovereign Identity Through the Example of Renting a Property](https://www.youtube.com/watch?v=81GkdBRmsbE)
+- [Video: Explaining Decentralized Identity Visually](https://www.youtube.com/watch?v=Ew-_F-OtDFI)
+- [How to Convince Dad\* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) - \*and your sister and your daughter and your best friend and your nephew.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
   - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - by Timmothy Ruff
-  - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
-- [Self-Sovereign Identity: Why Blockchain](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/#:~:text=The%20SSI%20movement%20uses%20a,was%20not%20possible%20using%20PKI.)
+
+### The 10 Principles
 
 ## Collected Knowledge
 
@@ -55,8 +76,6 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Specifications
 
-> TODO: ssi is a concept, based on the same principles. But all tools use the same underlying technology. mostly set by the W3C and DIF
-
 ### Decentralized Identifiers (DIDs)
 
 - [Official W3C Specification](https://w3c-ccg.github.io/did-spec/)
@@ -65,6 +84,13 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 #### Open Source Building Blocks
 
+- [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for Javascript
+- [JavaScript: DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
+- [JavaScript: DID Resolver](https://github.com/decentralized-identity/did-resolver) - a simple common interface for javascript applications to resolve DID documents from Decentralized Identifiers (DIDs).
+  - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - use ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document
+  - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document
+- [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - provide basic support for `did:key` methods
+
 ### Verifiable Credentials (VCs)
 
 - [Official W3C Data Model](https://www.w3.org/TR/vc-data-model/)
@@ -72,6 +98,9 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) - Concrete example scenarios that make use of Verifiable Credentials
 
 #### Open Source Building Blocks
+
+- [JavaScript: vc.js](https://github.com/transmute-industries/vc.js) - support Verifiable Credentials in JavaScript.
+- [JavaScript: vc-js](https://github.com/digitalbazaar/vc-js) - a Javascript library for issuing and verifying Verifiable Credentials
 
 ## Networks
 
@@ -87,7 +116,6 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Becoming an Indy/Aries Developer](https://github.com/hyperledger/aries-cloudagent-python/blob/master/docs/GettingStartedAriesDev/README.md)
 
 #### Open Source Building Blocks
-
 
 - [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
 - [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet)
@@ -120,9 +148,11 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [The Case For a Unified Identity](https://files.iota.org/comms/IOTA_The_Case_for_a_Unified_Identity.pdf)
 
 #### Open Source Building Blocks
+
 - [IOTA Identity](https://github.com/iotaledger/identity.rs)
 
 #### Implementations
+
 - [Selv - Mobile Wallet App](https://selv.iota.org/demo/app)
 
 ### Universal Ledger Agent
@@ -135,15 +165,12 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 - [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
 
-
-
 ## Papers, Books and Articles
 
 ## Inspiration
 
-- [Ideology & Architecture of Self-Sovereign Identity (Odyssey Connect 2020)](https://youtu.be/JzM_Brpk95E) -  Historical, technological and ethical aspects of Self-Sovereign Identity.
+- [Ideology & Architecture of Self-Sovereign Identity (Odyssey Connect 2020)](https://youtu.be/JzM_Brpk95E) - Historical, technological and ethical aspects of Self-Sovereign Identity.
 - [The Invisible Man (TEDxAmsterdam 2018)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](https://tykn.tech).
-
 
 ## Contribute
 
