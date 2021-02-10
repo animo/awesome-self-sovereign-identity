@@ -12,7 +12,7 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
   - [Contents](#contents)
   - [Basic Introduction](#basic-introduction)
-  - [Collected knowledge](#collected-knowledge)
+  - [Collected Knowledge](#collected-knowledge)
   - [Specifications](#specifications)
     - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
     - [Verifiable Credentials (VCs)](#verifiable-credentials-vcs)
@@ -41,8 +41,9 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
   - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - by Timmothy Ruff
   - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
+- [Self-Sovereign Identity: Why Blockchain](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/#:~:text=The%20SSI%20movement%20uses%20a,was%20not%20possible%20using%20PKI.)
 
-## Collected knowledge
+## Collected Knowledge
 
 - [Decentralized Identity Foundation](https://identity.foundation) - Focused on developing the foundational components of an open, standards-based, decentralized identity ecosystem
 - [SSI Meetup Webinars](https://ssimeetup.org/blog) - Webinars about Self-Sovereign Identity
