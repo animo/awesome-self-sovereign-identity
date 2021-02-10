@@ -4,33 +4,49 @@
 
 > A curated list of self-sovereign identity resources.
 
+Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world. (by [Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity))
+
 ## Contents
 
-- [Getting Started](#getting-started)
-- [General](#general)
-- [Specifications](#specifications)
-  - [Decentralized Identifiers](#decentralized-identifiers-dids)
-  - [Verifiable Credentials](#verifiable-credentials-vcs)
-- [Networks](#networks)
-- [Frameworks](#frameworks)
-- [Inspiration](#inspiration)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
+  - [Contents](#contents)
+  - [Basic Introduction](#basic-introduction)
+  - [Collected Knowledge](#collected-knowledge)
+  - [Specifications](#specifications)
+    - [Decentralized Identifiers (DIDs)](#decentralized-identifiers-dids)
+    - [Verifiable Credentials (VCs)](#verifiable-credentials-vcs)
+  - [Networks](#networks)
+  - [Projects and Applications](#projects-and-applications)
+    - [Hyperledger Indy](#hyperledger-indy)
+    - [Hyperledger Aries](#hyperledger-aries)
+        - [Open Source Building Blocks](#open-source-building-blocks)
+        - [Implementations](#implementations)
+    - [uPort](#uport)
+    - [Universal Ledger Agent](#universal-ledger-agent)
+  - [Papers, Books and Articles](#papers-books-and-articles)
+  - [Inspiration](#inspiration)
+  - [Contribute](#contribute)
+  - [License](#license)
 
-## Getting Started
+## Basic Introduction
 
-- [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872) - Introductory medium article on SSI and it's 10 principles
+- [Self-Sovereign Identity: The Ultimate Beginners Guide](https://tykn.tech/self-sovereign-identity/)
+- [Understanding Self-Sovereign Identity Through the Example of Renting a Property](https://www.youtube.com/watch?v=81GkdBRmsbE)
+- [The Evolution of Identity and the Introduction of the 10 Guiding Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - by Christopher Allen
+- [Explaining Decentralized Identity Visually](https://www.youtube.com/watch?v=Ew-_F-OtDFI)
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
-  - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
   - [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - by Timmothy Ruff
+  - [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - by Christopher Allen
 
-## General
+## Collected knowledge
 
 - [Decentralized Identity Foundation](https://identity.foundation) - Focused on developing the foundational components of an open, standards-based, decentralized identity ecosystem
 - [SSI Meetup Webinars](https://ssimeetup.org/blog) - Webinars about Self-Sovereign Identity
 - [Matching Identity Management Solutions to Self-Sovereign Identity Principles](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles/1) - An analysis of almost 50 (blockchain based) digital identity solutions matched against SSI principles
 
 ## Specifications
+
+> TODO: ssi is a concept, based on the same principles. But all tools use the same underlying technology. mostly set by the W3C and DIF
 
 ### Decentralized Identifiers (DIDs)
 
@@ -48,19 +64,69 @@
 
 - [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy
 
-## Frameworks
+## Projects and Applications
+
+### Hyperledger Indy
 
 - [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) - Distributed Ledger built for decentralized identity.
-- [Hyperledger Aries](https://www.hyperledger.org/projects/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
+
+### Hyperledger Aries
+
+- https://www.edx.org/course/becoming-a-hyperledger-aries-developer
+- https://github.com/hyperledger/aries-cloudagent-python/blob/master/docs/GettingStartedAriesDev/README.md
+- [Hyperledger Aries](https://github.com/hyperledger/aries) - Toolkit designed for creating, transmitting and storing verifiable digital credentials.
   - [Hyperledger Aries (SSI Meetup)](https://ssimeetup.org/hyperledger-aries-open-source-interoperable-identity-solutions-nathan-george-webinar-30/) - A SSI Meetup webinar by Nathan George about Hyperledger Aries
+
+#### Open Source Building Blocks
+
+- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
+- [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet)
+- [Aries Framework Go](https://github.com/hyperledger/aries-framework-go)
+- [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
+- [Aries Mobile Agent Xamarin]
+- [Aries SDK Ruby](https://github.com/hyperledger/aries-sdk-ruby)
+
+- [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
+
+#### Implementations
+
+- [Trinsic](https://trinsic.id/) - builds on top of Aries Framework .NET
+  - [Trinsic Studio - End-to-end Self Sovereign Identity Platform](https://trinsic.id/trinsic-studio/)
+  - [Trinsic Wallet - Mobile Wallet App](https://trinsic.id/trinsic-wallet/)
+  - [Mobile Wallet SDK](https://trinsic.id/mobile-wallet-sdk/)
+- [The Verifiable Organizations Network (VON)](https://github.com/bcgov/von) - built on top of Aries Cloud Agent Python
+- [Evernym](https://www.evernym.com/)
+  - [Verity - Platform for Issuing and Verifying Digital Credentials](https://www.evernym.com/products/)
+  - [Connect.Me - Mobile Wallet App](https://www.evernym.com/products/)
+  - [Mobile Wallet SDK](https://www.evernym.com/products/)
+
+### uPort
+
+- [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
+
+### IOTA
+
+- [The Case For a Unified Identity](https://files.iota.org/comms/IOTA_The_Case_for_a_Unified_Identity.pdf)
+
+#### Open Source Building Blocks
+- [IOTA Identity](https://github.com/iotaledger/identity.rs)
+
+#### Implementations
+- [Selv - Mobile Wallet App](https://selv.iota.org/demo/app)
+
+### Universal Ledger Agent
+
 - [Universal Ledger Agent](https://github.com/rabobank-blockchain/universal-ledger-agent) - Framework for managing Self-Sovereign Identity data.
   - [Introduction Paper](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)
   - [Zero-Knowledge Proofs](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/zero-knowledge-proofs-and-vc-in-social-housing.md)
-- [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform
+
+## Papers, Books and Articles
 
 ## Inspiration
 
-- [The Invisible Man (TEDxAmsterdam)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](https://tykn.tech).
+- [Ideology & Architecture of Self-Sovereign Identity (Odyssey Connect 2020)](https://youtu.be/JzM_Brpk95E) -  Historical, technological and ethical aspects of Self-Sovereign Identity.
+- [The Invisible Man (TEDxAmsterdam 2018)](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI which he tries to achieve with his company [Tykn](https://tykn.tech).
+
 
 ## Contribute
 
