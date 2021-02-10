@@ -121,7 +121,6 @@ In 2016 Christopher Allen first came up with the vision for self-sovereign ident
 - [Aries Mobile Agent React Native](https://github.com/animo/aries-mobile-agent-react-native)
 - [Aries Mobile Agent Xamarin](https://github.com/hyperledger/aries-mobileagent-xamarin)
 - [Aries SDK Ruby](https://github.com/hyperledger/aries-sdk-ruby)
-
 - [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
 
 #### Implementations
