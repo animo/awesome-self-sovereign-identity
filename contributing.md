@@ -6,18 +6,20 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+To contribute to this repo you can use the GitHub web interface to suggest changes (learn how to [here](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)) or take the following steps:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Fork it (https://github.com/animo/awesome-self-sovereign-identity/fork)
+- Clone it (`git clone https://github.com/animo/awesome-self-sovereign-identity`)
+- Create your own branch (`git checkout -b your_branch_name`)
+- Commit your changes, describe the changes in your contribution (`git commit -m 'Description of a commit'`)
+- Push to the branch (`git push origin your_branch_name`)
+- Create a new Pull Request (learn how to [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request))
 
 Thank you for your suggestions!
 
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to
 edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one. If you're not sure how to do that,
