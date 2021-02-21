@@ -6,14 +6,14 @@ project you agree to abide by its terms.
 
 ---
 
-To contribute to this repo you can use the GitHub web interface to suggest changes (learn how to here: https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)
+To contribute to this repo you can use the GitHub web interface to suggest changes (learn how to [here](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)) or take the following steps:
 
 - Fork it (https://github.com/animo/awesome-self-sovereign-identity/fork)
 - Clone it (`git clone https://github.com/animo/awesome-self-sovereign-identity`)
 - Create your own branch (`git checkout -b your_branch_name`)
 - Commit your changes, describe the changes in your contribution (`git commit -m 'Description of a commit'`)
 - Push to the branch (`git push origin your_branch_name`)
-- Create a new Pull Request (learn how to here https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+- Create a new Pull Request (learn how to [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request))
 
 Thank you for your suggestions!
 
