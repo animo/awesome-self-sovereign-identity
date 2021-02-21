@@ -10,7 +10,7 @@ To contribute to this repo:
 
 - Fork it (https://github.com/animo/awesome-self-sovereign-identity/fork)
 - Clone it (git clone https://github.com/animo/awesome-self-sovereign-identity)
-- Create your own branch (git checkout -b your_branch_name)
+- Create your own branch (`git checkout -b your_branch_name`)
 - Commit your changes, describe the changes in your contribution (git commit -m 'Description of a commit')
 - Push to the branch (git push origin your_branch_name)
 - Create a new Pull Request
