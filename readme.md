@@ -26,14 +26,13 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
 - [The Path To Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - Article that originally explained and coined the term self-sovereign identity.
 - [Why Self-Sovereign Identity is Important](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/convincing-dad.md) - How to convince your dad, your sister, your nephew and your best friend that SSI is a good idea.
-- [Myths of Self-sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1) - Myths revolving SSI.
+- [7 Myths of Self-sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1) - Seven myths of SSI by Timmothy Ruff.
 - [A Technology-free definition of SSI](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) - Topic paper for Rebooting Web of Trust III.
 - [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
 - [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
 - [Ideology & Architecture of Self-Sovereign Identity](https://www.youtube.com/watch?v=JzM_Brpk95E&feature=youtu.be) - Insights and reflections around historical, technological and ethical aspects of SSI.
 - [The Invisible Man, TEDxAmsterdam](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
-- [7 Myths of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) - Seven myths of SSI by Timmothy Ruff.
 
 ## 📄 Technical Specifications
 
