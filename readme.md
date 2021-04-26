@@ -71,6 +71,8 @@ To understand the philosophy of self-sovereign identity these starting guides an
 
 Notable self-sovereign identity products and services that are in production.
 
+- [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/) - A mobile wallet by esatus.
+- [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
 - [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
