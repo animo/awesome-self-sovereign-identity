@@ -9,15 +9,19 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Contents
 
-- [🤔 Philosophy & Concepts](#-philosophy--concepts)
-- [📄 Technical Specifications](#-technical-specifications)
-- [🛠 Tools & Technologies](#-tools--technologies)
-- [💁‍♂️ Products & Services](#️-products--services)
-- [📡 Networks](#-networks)
-- [📚 Resources](#-resources)
-- [📆 Events](#-events)
-- [💪 Contribute](#-contribute)
-- [🖋️ License](#️-license)
+
+- [Awesome Self-Sovereign Identity](#awesome-self-sovereign-identity)
+  - [Contents](#contents)
+  - [🤔 Philosophy & Concepts](#-philosophy--concepts)
+  - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
+  - [📄 Technical Specifications](#-technical-specifications)
+  - [🛠 Tools & Technologies](#-tools--technologies)
+  - [💁‍♂️ Products & Services](#️-products--services)
+  - [📡 Networks](#-networks)
+  - [📚 Resources](#-resources)
+  - [📆 Events](#-events)
+  - [💪 Contribute](#-contribute)
+  - [🖋️ License](#️-license)
 
 ## 🤔 Philosophy & Concepts
 
@@ -31,8 +35,15 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
 - [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
 - [Ideology & Architecture of Self-Sovereign Identity](https://www.youtube.com/watch?v=JzM_Brpk95E&feature=youtu.be) - Insights and reflections around historical, technological and ethical aspects of SSI.
+- [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations. 
 - [The Invisible Man, TEDxAmsterdam](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
+
+## 🏛️ Political, Legal and Ethical Implications
+
+- [The Growth Factors of Self-Sovereign Identity Solutions in Europe](https://www.researchgate.net/publication/349899411_The_growth_factors_of_self-sovereign_identity_solutions_in_Europe)- Thesis on the business, technology, legal and governance aspects of SSI. 
+- [Sovereignty, privacy, and ethics in blockchain-based identity management systems](https://research.tudelft.nl/en/publications/sovereignty-privacy-and-ethics-in-blockchain-based-identity-manag) - Article about the ethics of self-sovereign identity systems. 
+- [Self-Sovereignity for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/pdf/10.1080/14650045.2020.1823836) - Article that examines the implications of SSI for border politics and migration management. 
 
 ## 📄 Technical Specifications
 
@@ -44,6 +55,7 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
+- [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
 
 ## 🛠 Tools & Technologies
 
