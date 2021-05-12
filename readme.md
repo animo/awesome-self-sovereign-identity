@@ -1,7 +1,4 @@
-# Awesome Self-Sovereign Identity
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
+# Awesome Self-Sovereign Identity [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of self-sovereign identity resources.
 
@@ -9,6 +6,7 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## Contents
 
+<!--lint ignore awesome-toc-->
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
 - [📄 Technical Specifications](#-technical-specifications)
@@ -38,7 +36,7 @@ To understand the philosophy of self-sovereign identity these starting guides an
 
 ## 🏛️ Political, Legal and Ethical Implications
 
-- [The Growth Factors of Self-Sovereign Identity Solutions in Europe](https://www.researchgate.net/publication/349899411_The_growth_factors_of_self-sovereign_identity_solutions_in_Europe)- Thesis on the business, technology, legal and governance aspects of SSI. 
+- [The Growth Factors of Self-Sovereign Identity Solutions in Europe](https://www.researchgate.net/publication/349899411_The_growth_factors_of_self-sovereign_identity_solutions_in_Europe) - Thesis on the business, technology, legal and governance aspects of SSI. 
 - [Sovereignty, privacy, and ethics in blockchain-based identity management systems](https://research.tudelft.nl/en/publications/sovereignty-privacy-and-ethics-in-blockchain-based-identity-manag) - Article about the ethics of self-sovereign identity systems. 
 - [Self-Sovereignity for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/pdf/10.1080/14650045.2020.1823836) - Article that examines the implications of SSI for border politics and migration management. 
 
