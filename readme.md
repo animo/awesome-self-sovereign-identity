@@ -83,6 +83,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
+- [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
 - [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
 - [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
