@@ -25,6 +25,7 @@ To understand the philosophy of self-sovereign identity these starting guides an
 
 - [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
 - [A Beginner's Guide to Self-Sovereign Identity](https://domilabs.io/beginners-guide-ssi/) - Non technical article on the concept of SSI and its pillars and values.
+- [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples. 
 - [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
 - [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
 - [The Path To Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - Article that originally explained and coined the term self-sovereign identity, starts with different identity models as a whole.
