@@ -114,6 +114,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Technometrica](http://news.windley.com) - Phil Windley's attempt to make sense of the technology that interests him.
 - [Tykn newsletter](https://tykn.tech/subscribe-newsletter) - A monthly curated compilation of digital identity content.
 - [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs.
+- [SSI Wallets](https://github.com/Gimly-Blockchain/ssi-wallets) - An overview of SSI wallets, by [Gimly](https://gimly.io)
 
 ## 📆 Events
 
