@@ -98,6 +98,7 @@ Notable self-sovereign identity products and services that are in production.
 ## 📡 Networks
 
 - [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy.
+- [Cheqd Network](https://www.cheqd.io) - An identity network that enables payment rails between issuer, holder & verifier
 
 ## 📚 Resources
 
