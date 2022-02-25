@@ -8,24 +8,34 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 <!--lint ignore awesome-toc-->
 - [Contents](#contents)
+- [🌟 Getting Started](#-getting-started)
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
-- [📄 Technical Specifications](#-technical-specifications)
-- [🛠 Tools & Technologies](#-tools--technologies)
 - [💁‍♂️ Products & Services](#️-products--services)
+- [🛠 Tools & Technologies](#-tools--technologies)
 - [📡 Networks](#-networks)
 - [📚 Resources](#-resources)
+- [📄 Technical Specifications](#-technical-specifications)
 - [📆 Events](#-events)
 - [💪 Contribute](#-contribute)
 - [🖋️ License](#️-license)
+
+## 🌟 Getting Started
+
+Completely new to self-sovereign identity with no clue where to start? Here is one article, one video and one book to get you started. 
+
+- [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
+- [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples. 
+- [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations. 
+
+Next step is to check out some other beginners guides and video's in the Philosophy & Concepts section below. 
 
 ## 🤔 Philosophy & Concepts
 
 To understand the philosophy of self-sovereign identity these starting guides and explanations have been collected.
 
-- [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
+
 - [A Beginner's Guide to Self-Sovereign Identity](https://domilabs.io/beginners-guide-ssi/) - Non technical article on the concept of SSI and its pillars and values.
-- [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples. 
 - [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
 - [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
 - [The Path To Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - Article that originally explained and coined the term self-sovereign identity, starts with different identity models as a whole.
@@ -34,7 +44,6 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [7 Myths of Self-sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1) - Seven myths of SSI by Timmothy Ruff.
 - [19 FAQs on Verifiable Credentials and Self-Sovereign Identity](https://academy.affinidi.com/faqs-on-verifiable-credentials-and-self-sovereign-identity-3c3a505878bc) - Definition based FAQ that explains important SSI terminology and shows what a DID and VC actually look like.
 - [Ideology & Architecture of Self-Sovereign Identity](https://www.youtube.com/watch?v=JzM_Brpk95E&feature=youtu.be) - Insights and reflections around historical, technological and ethical aspects of SSI.
-- [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations. 
 - [The Invisible Man, TEDxAmsterdam](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
 - [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledgebase, uses color coding to indicate presumed level of familiarity.
@@ -45,17 +54,33 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Sovereignty, privacy, and ethics in blockchain-based identity management systems](https://research.tudelft.nl/en/publications/sovereignty-privacy-and-ethics-in-blockchain-based-identity-manag) - Article about the ethics of self-sovereign identity systems. 
 - [Self-Sovereignity for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/pdf/10.1080/14650045.2020.1823836) - Article that examines the implications of SSI for border politics and migration management. 
 
-## 📄 Technical Specifications
+## 💁‍♂️ Products & Services
 
-- [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
-- [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
-- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
-- [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/blob/master/index.md) - Specifications of Aries protocols and standards.
-- [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
-- [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
-- [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
-- [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
-- [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
+What projects are out there using self-sovereign identity.
+
+- [List of Global Adoption (projects and their status)](https://www.notion.so/Global-Verifiable-Credential-Adoption-78c7e4c5f2a34a228a55d03db54ab399)
+
+Identity wallets for storing verifiable credentials.
+
+- [Connect.me Wallet](https://connect.me/) - An identity wallet built by Evernym.
+- [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) - A mobile wallet by esatus.
+- [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
+- [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
+- [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
+- [Walt.id](https://walt.id/wallet) A cloud wallet by Walt.id.
+
+Software development kits for building an identity wallet.
+
+- [Trinsic Mobile Wallet SDK](https://trinsic.id/mobile-wallet-sdk/) - A SDK by Trinsic to extend self-sovereign identity to mobile app.
+
+Notable self-sovereign identity products and services that are in production.
+
+- [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
+- [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
+- [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
+- [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
+- [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
+- [Veramo](https://veramo.io/) - APIs for self-sovereign identity. 
 
 ## 🛠 Tools & Technologies
 
@@ -79,22 +104,6 @@ To understand the philosophy of self-sovereign identity these starting guides an
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
 
-## 💁‍♂️ Products & Services
-
-Notable self-sovereign identity products and services that are in production.
-
-- [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) - A mobile wallet by esatus.
-- [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
-- [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
-- [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
-- [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
-- [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
-- [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
-- [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
-- [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
-- [Trinsic Mobile Wallet SDK](https://trinsic.id/mobile-wallet-sdk/) - A SDK by Trinsic to extend self-sovereign identity to mobile app.
-- [uPort](https://www.uport.me/) - A self-sovereign identity and user-centric data platform.
-
 ## 📡 Networks
 
 - [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy.
@@ -116,6 +125,18 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Tykn newsletter](https://tykn.tech/subscribe-newsletter) - A monthly curated compilation of digital identity content.
 - [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs.
 - [SSI Wallets](https://github.com/Gimly-Blockchain/ssi-wallets) - An overview of SSI wallets, by [Gimly](https://gimly.io)
+
+## 📄 Technical Specifications
+
+- [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
+- [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
+- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
+- [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/blob/master/index.md) - Specifications of Aries protocols and standards.
+- [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
+- [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
+- [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
+- [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
+- [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
 
 ## 📆 Events
 
