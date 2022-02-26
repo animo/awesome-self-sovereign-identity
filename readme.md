@@ -67,7 +67,7 @@ Identity wallets for storing verifiable credentials.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
-- [Walt.id](https://walt.id/wallet) A cloud wallet by Walt.id.
+- [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id.
 
 Software development kits for building an identity wallet.
 
@@ -107,7 +107,7 @@ Notable self-sovereign identity products and services that are in production.
 ## 📡 Networks
 
 - [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy.
-- [Cheqd Network](https://www.cheqd.io) - An identity network that enables payment rails between issuer, holder & verifier
+- [Cheqd Network](https://www.cheqd.io) - An identity network that enables payment rails between issuer, holder & verifier.
 
 ## 📚 Resources
 
