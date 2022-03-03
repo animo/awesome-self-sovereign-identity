@@ -7,12 +7,14 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 ## Contents
 
 <!--lint ignore awesome-toc-->
+
 - [Contents](#contents)
 - [🌟 Getting Started](#-getting-started)
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
 - [💁‍♂️ Products & Services](#️-products--services)
 - [🛠 Tools & Technologies](#-tools--technologies)
+- [🎮 Demo's](#-demos)
 - [📡 Networks](#-networks)
 - [📚 Resources](#-resources)
 - [📄 Technical Specifications](#-technical-specifications)
@@ -22,18 +24,17 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 ## 🌟 Getting Started
 
-Completely new to self-sovereign identity with no clue where to start? Here is one article, one video and one book to get you started. 
+Completely new to self-sovereign identity with no clue where to start? Here is one article, one video and one book to get you started.
 
 - [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
-- [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples. 
-- [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations. 
+- [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples.
+- [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations.
 
-Next step is to check out some other beginners guides and video's in the Philosophy & Concepts section below. 
+Next step is to check out some other beginners guides and video's in the Philosophy & Concepts section below.
 
 ## 🤔 Philosophy & Concepts
 
 To understand the philosophy of self-sovereign identity these starting guides and explanations have been collected.
-
 
 - [A Beginner's Guide to Self-Sovereign Identity](https://domilabs.io/beginners-guide-ssi/) - Non technical article on the concept of SSI and its pillars and values.
 - [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
@@ -50,9 +51,9 @@ To understand the philosophy of self-sovereign identity these starting guides an
 
 ## 🏛️ Political, Legal and Ethical Implications
 
-- [The Growth Factors of Self-Sovereign Identity Solutions in Europe](https://www.researchgate.net/publication/349899411_The_growth_factors_of_self-sovereign_identity_solutions_in_Europe) - Thesis on the business, technology, legal and governance aspects of SSI. 
-- [Sovereignty, privacy, and ethics in blockchain-based identity management systems](https://research.tudelft.nl/en/publications/sovereignty-privacy-and-ethics-in-blockchain-based-identity-manag) - Article about the ethics of self-sovereign identity systems. 
-- [Self-Sovereignity for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/pdf/10.1080/14650045.2020.1823836) - Article that examines the implications of SSI for border politics and migration management. 
+- [The Growth Factors of Self-Sovereign Identity Solutions in Europe](https://www.researchgate.net/publication/349899411_The_growth_factors_of_self-sovereign_identity_solutions_in_Europe) - Thesis on the business, technology, legal and governance aspects of SSI.
+- [Sovereignty, privacy, and ethics in blockchain-based identity management systems](https://research.tudelft.nl/en/publications/sovereignty-privacy-and-ethics-in-blockchain-based-identity-manag) - Article about the ethics of self-sovereign identity systems.
+- [Self-Sovereignity for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/pdf/10.1080/14650045.2020.1823836) - Article that examines the implications of SSI for border politics and migration management.
 
 ## 💁‍♂️ Products & Services
 
@@ -80,7 +81,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
 - [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
 - [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
-- [Veramo](https://veramo.io/) - APIs for self-sovereign identity. 
+- [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 
 ## 🛠 Tools & Technologies
 
@@ -103,6 +104,22 @@ Notable self-sovereign identity products and services that are in production.
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
+
+## 🎮 Demo's
+
+High level:
+
+- [Animo Demo](https://demo.animo.id/) - Our own demo lets you pick a character and experience digital verification through their world. See how easy it is to work, travel or study using verifiable credentials!
+- [Evernym Demo](https://try.connect.me/#/) - In this demo you'll explore digital credentials with Alice, who just landed her dream job and is preparing to buy her first house using the Connect Me App.
+- [Lissi Demo](https://lissi.id/demo) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
+- [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
+- [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
+
+Low level:
+
+- [AJF Demo](https://github.com/hyperledger/aries-framework-javascript/tree/main/demo) - Walk through the AFJ flow yourself together with agents Alice and Faber in this demo.
+- [ACA-Py Demo](https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo) - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
+- [Aries OpenAPI demo](https://github.com/hyperledger/aries-cloudagent-python/blob/main/demo/AriesOpenAPIDemo.md#using-the-openapiswagger-user-interface)
 
 ## 📡 Networks
 
