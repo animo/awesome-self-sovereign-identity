@@ -115,7 +115,7 @@ High level:
 - Before Veramo and Serto, Uport created [this](https://uportlandia.uport.me/) lovely demo in which you play around in a city where verifiable credentials are everywhere.
 - At Iota they do it all, including digital identity. [The Selv demo](https://selv.iota.org/demo/select) uses real partnerships to show you how verifiable credentials will impact day to day life.
 
-Low Level:
+Low level:
 
 - Walk through the AFJ flow yourself together with agents Alice and Faber in [this AJF Demo](https://github.com/hyperledger/aries-framework-javascript/tree/main/demo)
 - [There](https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo) are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
