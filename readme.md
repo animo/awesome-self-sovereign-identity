@@ -113,7 +113,7 @@ High level:
 - [Evernym Demo](https://try.connect.me/#/) - In this demo you'll explore digital credentials with Alice, who just landed her dream job and is preparing to buy her first house using the Connect Me App.
 - [Lissi Demo](https://lissi.id/demo) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
 - [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
-- [The Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
+- [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
 
 Low level:
 
