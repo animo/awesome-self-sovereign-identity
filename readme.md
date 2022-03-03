@@ -109,16 +109,16 @@ Notable self-sovereign identity products and services that are in production.
 
 High level:
 
-- [Our own demo](https://demo.animo.id/) lets you pick a character and experience digital verification through their world. See how easy it is to work, travel or study using verifiable credentials!
-- In this [Evernym](https://try.connect.me/#/) demo you'll explore digital credentials with Alice, who just landed her dream job and is preparing to buy her first house using the [Connect.Me](https://connect.me/) App.
-- Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at [Lissi](https://lissi.id/demo)
-- Before Veramo and Serto, Uport created [this](https://uportlandia.uport.me/) lovely demo in which you play around in a city where verifiable credentials are everywhere.
-- At Iota they do it all, including digital identity. [The Selv demo](https://selv.iota.org/demo/select) uses real partnerships to show you how verifiable credentials will impact day to day life.
+- [Animo Demo](https://demo.animo.id/) - Our own demo lets you pick a character and experience digital verification through their world. See how easy it is to work, travel or study using verifiable credentials!
+- [Evernym Demo](https://try.connect.me/#/) - In this demo you'll explore digital credentials with Alice, who just landed her dream job and is preparing to buy her first house using the Connect Me App.
+- [Lissi Demo](https://lissi.id/demo) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
+- [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
+- [The Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
 
 Low level:
 
-- Walk through the AFJ flow yourself together with agents Alice and Faber in [this AJF Demo](https://github.com/hyperledger/aries-framework-javascript/tree/main/demo)
-- [There](https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo) are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
+- [AJF Demo](https://github.com/hyperledger/aries-framework-javascript/tree/main/demo) - Walk through the AFJ flow yourself together with agents Alice and Faber in this demo.
+- [ACA-Py Demo](https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo) - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
 - [Aries OpenAPI demo](https://github.com/hyperledger/aries-cloudagent-python/blob/main/demo/AriesOpenAPIDemo.md#using-the-openapiswagger-user-interface)
 
 ## 📡 Networks
