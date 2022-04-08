@@ -1,9 +1,12 @@
 # Awesome Self-Sovereign Identity [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of self-sovereign identity resources. We ❤️ contributions! Add your resources and products in a [PR](contributing.md).
-
+> A curated list of self-sovereign identity resources. 
 
 Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
+
+## 💪 Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
 
@@ -170,10 +173,6 @@ Notable events concerning self-sovereign identity.
 
 - [SSIMeetup](https://ssimeetup.org) - An open, collaborative community to help SSI evangelists around the world, independent of company interests or standards.
 - [Internet Identity Workshop](https://internetidentityworkshop.com/) - An event that is held twice every year that discusses user-centric identity related topics and technologies.
-
-## 💪 Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## 🖋️ License
 
