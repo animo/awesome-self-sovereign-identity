@@ -29,6 +29,7 @@ Completely new to self-sovereign identity with no clue where to start? Here is o
 - [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
 - [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples.
 - [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations.
+- [Introduction to Self-Sovereign Identity](https://walt.id/decentralized-identity-explained/self-sovereign-identity-ssi)
 
 Next step is to check out some other beginners guides and video's in the Philosophy & Concepts section below.
 
@@ -68,7 +69,7 @@ Identity wallets for storing verifiable credentials.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
-- [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id.
+- [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id + a framework for extending apps with SSI capabilities. 
 
 Software development kits for building an identity wallet.
 
@@ -94,6 +95,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
 - [Indy SDK](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
 - [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
+- [SSI Kit](https://walt.id/ssi-kit) - Open source infrastructure that offers everything developers need to use SSI (to build end-to-end use cases and applications).
 - [Universal DID Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
 - [Universal DID Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
 - [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
@@ -114,6 +116,7 @@ High level:
 - [Lissi Demo](https://lissi.id/demo) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
 - [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
 - [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
+- [walt.id demo](https://walt.id/get-started)
 
 Low level:
 
@@ -142,6 +145,11 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Tykn newsletter](https://tykn.tech/subscribe-newsletter) - A monthly curated compilation of digital identity content.
 - [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs.
 - [SSI Wallets](https://github.com/Gimly-Blockchain/ssi-wallets) - An overview of SSI wallets, by [Gimly](https://gimly.io)
+- [Introduction to Digital Identity](https://walt.id/decentralized-identity-explained/digital-identity)
+- [Me, myself & (SS)I - co-authored by the Boston Consulting Group](https://static1.squarespace.com/static/609c0ddf94bcc0278a7cbdb4/t/623432727b5ccc4ad8876739/1647587956223/White+Paper+-+Self-Sovereign+Identity+%28SSI%29+%7C+BCG+x+walt.id.pdf)
+- [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts)
+- [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts)
+- [The Pilot Playbook - How to build SSI Pilots](https://walt.id/playbooks)
 
 ## 📄 Technical Specifications
 
