@@ -1,6 +1,6 @@
 # Awesome Self-Sovereign Identity [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A list of self-sovereign identity resources. 
+> A curated list of self-sovereign identity resources. We ❤️ contributions! Add your resources and products in a [PR](contributing.md).
 
 We ❤️ contributions! Add your resources and products in a [PR](contributing.md).
 
