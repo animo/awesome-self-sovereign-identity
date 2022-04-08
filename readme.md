@@ -149,7 +149,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Me, myself & (SS)I - co-authored by the Boston Consulting Group](https://static1.squarespace.com/static/609c0ddf94bcc0278a7cbdb4/t/623432727b5ccc4ad8876739/1647587956223/White+Paper+-+Self-Sovereign+Identity+%28SSI%29+%7C+BCG+x+walt.id.pdf)
 - [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts)
 - [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts)
-- [The Pilot Playbook - How to build SS Pilots](https://walt.id/playbooks)
+- [The Pilot Playbook - How to build SSI Pilots](https://walt.id/playbooks)
 
 ## 📄 Technical Specifications
 
