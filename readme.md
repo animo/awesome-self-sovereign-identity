@@ -54,57 +54,81 @@ An overview of the technical specifications can be found in [this simplified map
 ### Verifiable Credentials / Trusted Data Storage & Exchange
 
 #### W3C
-
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
 
+---
+- [Data Integrity](https://w3c-ccg.github.io/data-integrity-spec/) - Specifications describing mechanisms for ensuring the authenticity and integrity of structured digital documents using cryptography, such as digital signatures and other digital mathematical proofs (used to be LD Proofs).
+
 #### DIF
-
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
-
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 
 #### Hyperledger Foundation
-
 - [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
+- [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/tree/main/features)
 
-### DIDComm and Sub-protocols
+### DID Communication (DIDComm) and Sub-protocols
+#### W3C
+- [CHAPI](https://w3c-ccg.github.io/credential-handler-api/) - Credential Handler API: specification defining capabilities that enable third-party Web applications to handle credential requests and storage events.
 
 #### DIF
+- [DIF DIDComm Messaging (v2)](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
 
-- [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
+#### Hyperledger Foundation
+- [x] [Aries RFC 0005 : DIDComm v1](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0005-didcomm) - First version of the DIDComm protocol spec. Refer to v2 specs.
 
 ### DIDs, Anchors and Registries
-
 #### W3C
+- [Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Core specification of decentralized identifiers (DIDs).
+- [Decentralized Identifier Resolution](https://w3c-ccg.github.io/did-resolution/) - Specification related to algorithms and guidelines for resolving DIDs and dereferencing DID URLs.
+- [DID Specification Registries](https://www.w3.org/TR/did-spec-registries/) - Official registry for all known global parameters, properties, and values used by the Decentralized Identifier ecosystem
+	- [did:key Method](https://w3c-ccg.github.io/did-method-key/) - Specification describing a non-registry based DID Method based on expanding a cryptographic public key into a DID Document.
 
-- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
+--- 
+
+- [WebKMS](https://w3c-ccg.github.io/webkms/) - Cryptographic Key Management Systems for the Web.
+
 
 #### DIF
-
+- [SideTree](https://identity.foundation/sidetree/spec/) - Protocol for creating scalable DID networks that can run atop any existing decentralized anchoring system.
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
 
 ## 🛠 Tools & Technologies
 
-- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python) - An easy to use Aries agent for building SSI services using any language that supports sending/receiving HTTP requests.
-- [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet) - Provides a universal library for building Aries SSI applications for the cloud, mobile and IoT stack.
-- [Aries Framework Go](https://github.com/hyperledger/aries-framework-go) - A flexible toolkit to enable the usage of DIDs, DIDComm and verifiable credential exchange.
-- [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) - A framework for building SSI agents and DIDComm services for desktop, mobile and in the cloud, built using TypeScript.
-- [Aries Mobile Agent React Native](https://github.com/hyperledger/aries-mobile-agent-react-native) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
-- [Aries Mobile Agent Xamarin](https://github.com/hyperledger/aries-mobileagent-xamarin) - An open source Aries mobile agent build with Xamarin and Aries Framework .NET.
-- [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
-- [Indy SDK](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
-- [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
+### Hyperledger Foundation
+
+- [Hyperledger Aries](https://www.hyperledger.org/use/aries) - Shared, reusable, interoperable tool kit designed for initiatives and solutions focused on creating, transmitting and storing verifiable digital credentials.
+	- [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
+	- [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet) - Provides a universal library for building Aries SSI applications for the cloud, mobile and IoT stack.
+	- [Aries Framework Go](https://github.com/hyperledger/aries-framework-go) - A flexible toolkit to enable the usage of DIDs, DIDComm and verifiable credential exchange.
+	- [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) - A framework for building SSI agents and DIDComm services for desktop, mobile and in the cloud, built using TypeScript.
+	- [Aries Mobile Agent React Native](https://github.com/hyperledger/aries-mobile-agent-react-native) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
+	- [Aries Mobile Agent Xamarin](https://github.com/hyperledger/aries-mobileagent-xamarin) - An open source Aries mobile agent build with Xamarin and Aries Framework .NET.
+	- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python) - An easy to use Aries agent for building SSI services using any language that supports sending/receiving HTTP requests.
+- [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) - Tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers
+	- [Indy SDK](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) - Enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
+- [Hyperledger Besu](https://www.hyperledger.org/use/besu) - Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases.
+- [Hyperledger Ursa](https://www.hyperledger.org/use/ursa) - Shared cryptographic library, it enables implementations to avoid duplicating other cryptographic work and hopefully increase security in the process.
+
+### DIF
+- [ION](https://github.com/decentralized-identity/ion) - Public, permissionless, DID network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a 'Layer 2' overlay) to support DIDs/DPKI (Decentralized Public Key Infrastructure) at scale.
+- [sidetree.js](https://github.com/transmute-industries/sidetree.js) - Simple-as-possible TypeScript implementation of the Sidetree version 1.0 protocol.
+- [DIDComm Implementations](https://github.com/decentralized-identity/didcomm-messaging/#implementations) - Links to some implementations of the DIDComm v2 spec.
 - [Universal DID Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
 - [Universal DID Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
-- [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
-- [JavaScript: DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
-- [JavaScript: vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
-- [JavaScript: vc.js](https://github.com/transmute-industries/vc.js) - Support Verifiable Credentials in JavaScript.
 - [JavaScript: DID Resolver](https://github.com/decentralized-identity/did-resolver) - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
+
+### Others
+- [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
+- [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
+- [JavaScript: DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
+- [JavaScript: vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
+- [JavaScript: vc.js](https://github.com/transmute-industries/vc.js) - Support Verifiable Credentials in JavaScript.
 
 ## 💁‍♂️ Products & Services
 
