@@ -47,14 +47,41 @@ To understand the philosophy of self-sovereign identity these starting guides an
 
 ## 📄 Technical Specifications
 
+Here you will find an overview of the technical specifications, grouped by level and sorted by community.
+
+An overview of the technical specifications can be found in [this simplified map](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/map-of-adjacent-orgs-and-specs--sept-2020--one-sided.pdf) and [here](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf) in a more detailed fashion.  
+
+### Verifiable Credentials / Trusted Data Storage & Exchange
+
+#### W3C
+
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
-- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
-- [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/blob/master/index.md) - Specifications of Aries protocols and standards.
-- [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
+
+#### DIF
+
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
+
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
+
+#### Hyperledger Foundation
+
+- [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
+
+### DIDComm and Sub-protocols
+
+#### DIF
+
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
+
+### DIDs, Anchors and Registries
+
+#### W3C
+
+- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
+
+#### DIF
+
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
 
 ## 🛠 Tools & Technologies
