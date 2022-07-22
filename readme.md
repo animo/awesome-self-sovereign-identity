@@ -71,7 +71,6 @@ An overview of the technical specifications can be found in [this simplified map
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
 
----
 - [Data Integrity](https://w3c-ccg.github.io/data-integrity-spec/) - Specifications describing mechanisms for ensuring the authenticity and integrity of structured digital documents using cryptography, such as digital signatures and other digital mathematical proofs (used to be LD Proofs).
 
 #### Decentralized Identity Foundation (DIF)
