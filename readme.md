@@ -51,7 +51,7 @@ Here you will find an overview of the technical specifications, grouped by level
 
 An overview of the technical specifications can be found in [this simplified map](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/map-of-adjacent-orgs-and-specs--sept-2020--one-sided.pdf) and [here](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf) in a more detailed fashion.  
 
-### Verifiable Credentials / Trusted Data Storage & Exchange
+### Verifiable Credentials 
 
 #### W3C
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
