@@ -60,7 +60,7 @@ An overview of the technical specifications can be found in [this simplified map
 ---
 - [Data Integrity](https://w3c-ccg.github.io/data-integrity-spec/) - Specifications describing mechanisms for ensuring the authenticity and integrity of structured digital documents using cryptography, such as digital signatures and other digital mathematical proofs (used to be LD Proofs).
 
-#### DIF
+#### Decentralized Identity Foundation (DIF)
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 
