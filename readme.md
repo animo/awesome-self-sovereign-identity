@@ -23,6 +23,7 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [📡 Networks](#-networks)
 - [📚 Resources](#-resources)
 - [📄 Technical Specifications](#-technical-specifications)
+- [🎧 Podcasts](#-podcasts)
 - [📆 Events](#-events)
 - [💪 Contribute](#-contribute)
 - [🖋️ License](#️-license)
@@ -177,6 +178,10 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
+
+## 🎧 Podcasts
+- [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
+- [The Rubric](https://plinkhq.com/i/1568335990/e/?to=page) - A podcast aimed at helping you understand the technologies behind decentralized identity such as decentralized identifiers (DIDs), DID documents and DID methods.
 
 ## 📆 Events
 
