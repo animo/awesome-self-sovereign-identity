@@ -71,6 +71,7 @@ Identity wallets for storing verifiable credentials.
 - [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) - A mobile wallet by esatus.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
+- [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
 - [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id + a framework for extending apps with SSI capabilities. 
 
