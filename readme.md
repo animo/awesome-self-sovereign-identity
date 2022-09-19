@@ -7,11 +7,11 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 #### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
-## Contents
+## Table of Contents
 
 <!--lint ignore awesome-toc-->
 
-- [Contents](#contents)
+- [Contents](#table-of-contents)
 - [🌟 Getting Started](#-getting-started)
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
