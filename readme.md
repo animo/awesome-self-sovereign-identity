@@ -111,6 +111,10 @@ Notable self-sovereign identity products and services that are in production.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
 
+## 🎓 Tutorials & Guides
+
+- [Aries Framework JavaScript Tutorials](https://www.youtube.com/playlist?list=PLopHpZBbk8wM4FRFZl3LXeAhz6fbX4_lk) - A playlist of useful beginner tutorials on how to use Aries Framework JavaScript.
+
 ## 🎮 Demo's
 
 High level:
