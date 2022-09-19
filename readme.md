@@ -5,7 +5,7 @@
 Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
 
 
-#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Contents
 
