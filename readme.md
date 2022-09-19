@@ -5,13 +5,13 @@
 Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
 
 
-#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
-## Contents
+## Table of Contents
 
 <!--lint ignore awesome-toc-->
 
-- [Contents](#contents)
+- [Contents](#table-of-contents)
 - [🌟 Getting Started](#-getting-started)
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
@@ -71,6 +71,7 @@ Identity wallets for storing verifiable credentials.
 - [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) - A mobile wallet by esatus.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
+- [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
 - [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id + a framework for extending apps with SSI capabilities. 
 
