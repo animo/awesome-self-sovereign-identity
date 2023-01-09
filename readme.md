@@ -1,3 +1,4 @@
+<!--lint disable awesome-toc-->
 # Awesome Self-Sovereign Identity [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of self-sovereign identity resources. 
@@ -7,11 +8,11 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 #### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
-## Table of Contents
+## Contents
 
-<!--lint ignore awesome-toc-->
+<!--lint disable awesome-list-item-->
 
-- [Contents](#table-of-contents)
+
 - [🌟 Getting Started](#-getting-started)
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
@@ -25,6 +26,8 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 - [📆 Events](#-events)
 - [💪 Contribute](#-contribute)
 - [🖋️ License](#️-license)
+
+<!--lint enable awesome-list-item-->
 
 ## 🌟 Getting Started
 
