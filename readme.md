@@ -78,6 +78,7 @@ Identity wallets for storing verifiable credentials.
 - [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
 - [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id + a framework for extending apps with SSI capabilities. 
+- [SSI Snap](https://github.com/blockchain-lab-um/ssi-snap/) - An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.
 
 Software development kits for building an identity wallet.
 
@@ -129,6 +130,7 @@ High level:
 - [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
 - [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
 - [walt.id demo](https://walt.id/get-started)
+- [SSI Snap demo](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7) - In this demo, you will be able to obtain a credential presenting proof of competence that you can later use in DAO governance on our extended Snapshot.
 
 Low level:
 
