@@ -33,7 +33,6 @@ Self-sovereign identity (SSI) is a term used to describe the digital movement th
 
 Completely new to self-sovereign identity with no clue where to start? Here is one article, one video and one book to get you started.
 
-- [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
 - [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples.
 - [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations.
 - [Introduction to Self-Sovereign Identity](https://walt.id/decentralized-identity-explained/self-sovereign-identity-ssi)
