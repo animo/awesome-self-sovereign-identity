@@ -56,7 +56,8 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Ideology & Architecture of Self-Sovereign Identity](https://www.youtube.com/watch?v=JzM_Brpk95E&feature=youtu.be) - Insights and reflections around historical, technological and ethical aspects of SSI.
 - [The Invisible Man, TEDxAmsterdam](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
-- [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledgebase, uses color coding to indicate presumed level of familiarity.
+- [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledge base, uses color coding to indicate presumed level of familiarity.
+- [eSSIF-Lab Mental Models](https://essif-lab.github.io/framework/docs/essifLab-pattern-list) - A description of various mental models by eSSIF-Lab.
 
 ## 🏛️ Political, Legal and Ethical Implications
 
@@ -120,6 +121,7 @@ Notable self-sovereign identity products and services that are in production.
 ## 🎓 Tutorials & Guides
 
 - [Aries Framework JavaScript Tutorials](https://www.youtube.com/playlist?list=PLopHpZBbk8wM4FRFZl3LXeAhz6fbX4_lk) - A playlist of useful beginner tutorials on how to use Aries Framework JavaScript.
+- [MATTR VII Tutorials](https://learn.mattr.global/tutorials/) - Various tutorials by MATTR on how to work with their VII platform.
 
 ## 🎮 Demo's
 
@@ -165,6 +167,9 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts)
 - [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts)
 - [The Pilot Playbook - How to build SSI Pilots](https://walt.id/playbooks)
+- [eSSIF-Lab Glossary](https://essif-lab.github.io/framework/docs/essifLab-glossary) - A glossary by eSSIF-Lab describing various terms commonly used in the space of SSI.
+- [Overview of Frameworks & SDKs](https://europeanblockchainassociation.org/ssi-frameworks-sdks-overview/) - An overview of various SSI frameworks and SDKs by the European Blockchain Association.
+- [Overview of SSI Wallets](https://europeanblockchainassociation.org/ssi-wallets/) - An overview of various SSI wallets by the European Blockchain Association.
 
 ## 📄 Technical Specifications
 
