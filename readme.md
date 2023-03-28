@@ -89,6 +89,7 @@ Software development kits for building an identity wallet.
 Notable self-sovereign identity products and services that are in production.
 
 - [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
+- [Polybase](https://polybase.xyz) - An open-source decentralized alternative to Firebase that enables self-sovereign data, censorship resistance, etc. 
 - [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 - [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
 - [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
