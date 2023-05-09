@@ -1,3 +1,4 @@
+<!--lint disable awesome-toc-->
 # Awesome Self-Sovereign Identity [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of self-sovereign identity resources. 
@@ -5,31 +6,34 @@
 Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
 
 
-#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Contents
 
-<!--lint ignore awesome-toc-->
+<!--lint disable awesome-list-item-->
 
-- [Contents](#contents)
+
 - [🌟 Getting Started](#-getting-started)
 - [🤔 Philosophy & Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
 - [💁‍♂️ Products & Services](#️-products--services)
 - [🛠 Tools & Technologies](#-tools--technologies)
+- [🎓 Tutorials & Guides](#-tutorials--guides)
 - [🎮 Demo's](#-demos)
 - [📡 Networks](#-networks)
 - [📚 Resources](#-resources)
 - [📄 Technical Specifications](#-technical-specifications)
+- [🎧 Podcasts](#-podcasts)
 - [📆 Events](#-events)
 - [💪 Contribute](#-contribute)
 - [🖋️ License](#️-license)
+
+<!--lint enable awesome-list-item-->
 
 ## 🌟 Getting Started
 
 Completely new to self-sovereign identity with no clue where to start? Here is one article, one video and one book to get you started.
 
-- [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) - Complete starters guide to the concepts and technology of SSI.
 - [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples.
 - [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations.
 - [Introduction to Self-Sovereign Identity](https://walt.id/decentralized-identity-explained/self-sovereign-identity-ssi)
@@ -43,6 +47,7 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [A Beginner's Guide to Self-Sovereign Identity](https://domilabs.io/beginners-guide-ssi/) - Non technical article on the concept of SSI and its pillars and values.
 - [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
 - [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
+- [Decentralized Identity — Owning It!](https://medium.com/p/94987f97649f) - An intro on decentralized identities and a tutorial on using Veramo CLI.
 - [The Path To Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - Article that originally explained and coined the term self-sovereign identity, starts with different identity models as a whole.
 - [A Technology-free definition of SSI](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) - Topic paper for Rebooting Web of Trust III.
 - [Why Self-Sovereign Identity is Important](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/convincing-dad.md) - How to convince your dad, your sister, your nephew and your best friend that SSI is a good idea.
@@ -51,7 +56,8 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Ideology & Architecture of Self-Sovereign Identity](https://www.youtube.com/watch?v=JzM_Brpk95E&feature=youtu.be) - Insights and reflections around historical, technological and ethical aspects of SSI.
 - [The Invisible Man, TEDxAmsterdam](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI.
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
-- [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledgebase, uses color coding to indicate presumed level of familiarity.
+- [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledge base, uses color coding to indicate presumed level of familiarity.
+- [eSSIF-Lab Mental Models](https://essif-lab.github.io/framework/docs/essifLab-pattern-list) - A description of various mental models by eSSIF-Lab.
 
 ## 🏛️ Political, Legal and Ethical Implications
 
@@ -139,8 +145,10 @@ Identity wallets for storing verifiable credentials.
 - [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) - A mobile wallet by esatus.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
+- [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
 - [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id + a framework for extending apps with SSI capabilities. 
+- [SSI Snap](https://github.com/blockchain-lab-um/ssi-snap/) - An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.
 
 Software development kits for building an identity wallet.
 
@@ -182,6 +190,11 @@ Notable self-sovereign identity products and services that are in production.
 - [JavaScript: vc.js](https://github.com/transmute-industries/vc.js) - Support Verifiable Credentials in JavaScript.
 
 ## 💁‍♂️ Products & Services
+## 🎓 Tutorials & Guides
+
+- [Aries Framework JavaScript Tutorials](https://www.youtube.com/playlist?list=PLopHpZBbk8wM4FRFZl3LXeAhz6fbX4_lk) - A playlist of useful beginner tutorials on how to use Aries Framework JavaScript.
+- [MATTR VII Tutorials](https://learn.mattr.global/tutorials/) - Various tutorials by MATTR on how to work with their VII platform.
+
 ## 🎮 Demo's
 
 High level:
@@ -192,6 +205,7 @@ High level:
 - [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
 - [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
 - [walt.id demo](https://walt.id/get-started)
+- [SSI Snap demo](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7) - In this demo, you will be able to obtain a credential presenting proof of competence that you can later use in DAO governance on our extended Snapshot.
 
 Low level:
 
@@ -225,6 +239,9 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts)
 - [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts)
 - [The Pilot Playbook - How to build SSI Pilots](https://walt.id/playbooks)
+- [eSSIF-Lab Glossary](https://essif-lab.github.io/framework/docs/essifLab-glossary) - A glossary by eSSIF-Lab describing various terms commonly used in the space of SSI.
+- [Overview of Frameworks & SDKs](https://europeanblockchainassociation.org/ssi-frameworks-sdks-overview/) - An overview of various SSI frameworks and SDKs by the European Blockchain Association.
+- [Overview of SSI Wallets](https://europeanblockchainassociation.org/ssi-wallets/) - An overview of various SSI wallets by the European Blockchain Association.
 
 ## 📄 Technical Specifications
 
@@ -237,6 +254,10 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
+
+## 🎧 Podcasts
+- [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
+- [The Rubric](https://plinkhq.com/i/1568335990/e/?to=page) - A podcast aimed at helping you understand the technologies behind decentralized identity such as decentralized identifiers (DIDs), DID documents and DID methods.
 
 ## 📆 Events
 
