@@ -117,7 +117,6 @@ Notable self-sovereign identity products and services that are in production.
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
-- [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
 
 ## 🎓 Tutorials & Guides
 
@@ -171,6 +170,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [eSSIF-Lab Glossary](https://essif-lab.github.io/framework/docs/essifLab-glossary) - A glossary by eSSIF-Lab describing various terms commonly used in the space of SSI.
 - [Overview of Frameworks & SDKs](https://europeanblockchainassociation.org/ssi-frameworks-sdks-overview/) - An overview of various SSI frameworks and SDKs by the European Blockchain Association.
 - [Overview of SSI Wallets](https://europeanblockchainassociation.org/ssi-wallets/) - An overview of various SSI wallets by the European Blockchain Association.
+- [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
 
 ## 📄 Technical Specifications
 
