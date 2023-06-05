@@ -1,7 +1,7 @@
 <!--lint disable awesome-toc-->
 # Awesome Self-Sovereign Identity [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of self-sovereign identity resources. 
+> A curated list of self-sovereign identity resources.
 
 Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
 
@@ -186,6 +186,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 ## 🎧 Podcasts
 - [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
 - [The Rubric](https://plinkhq.com/i/1568335990/e/?to=page) - A podcast aimed at helping you understand the technologies behind decentralized identity such as decentralized identifiers (DIDs), DID documents and DID methods.
+- [The Future of Identity](https://trinsic.id/podcast) - The Future of Identity podcast talks to the people building the IDtech products of tomorrow. In every episode, you’ll gain invaluable insights as founders and product builders share how they have successfully gone-to-market with an identity product.
 
 ## 📆 Events
 
