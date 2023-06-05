@@ -186,7 +186,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 ## 🎧 Podcasts
 - [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
 - [The Rubric](https://plinkhq.com/i/1568335990/e/?to=page) - A podcast aimed at helping you understand the technologies behind decentralized identity such as decentralized identifiers (DIDs), DID documents and DID methods.
-- [The Future of Identity](https://trinsic.id/podcast) - The Future of Identity podcast talks to the people building the IDtech products of tomorrow. In every episode, you’ll gain invaluable insights as founders and product builders share how they have successfully gone-to-market with an identity product.
+- [The Future of Identity](https://trinsic.id/podcast) - The Future of Identity podcast talks to the people building the IDtech products of tomorrow. In every episode, you'll gain invaluable insights as founders and product builders share how they have successfully gone-to-market with an identity product.
 
 ## 📆 Events
 
