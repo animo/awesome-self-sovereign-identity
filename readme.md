@@ -176,24 +176,18 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
 
 ## 📄 Technical Specifications
-
-### World Wide Web Consortium
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
 - [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
-### Decentralized Identity Foundation
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
-### OpenID for Verifiable Credentials
 - [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
 - [OpenID for Verifiable Presentations (OID4VP)](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-1_0.html) - A specification that allows for presenting verifiable presentations using OpenID.
 - [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.bitbucket.io/connect/openid-connect-self-issued-v2-1_0.html) - A specification that allows the end-user to control a OpenID Provider. This specification is commonly used in combination with OpenID for Verifiable Presentations.
 - [OpenID for Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html) - A specification that allows for exchanging OpenID Verifiable Presentations over BLE.
-### Hyperledger
 - [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/blob/master/index.md) - Specifications of Aries protocols and standards.
 - [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
-### KERI
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
 ## 🎧 Podcasts
 - [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
