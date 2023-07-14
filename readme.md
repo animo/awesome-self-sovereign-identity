@@ -117,6 +117,9 @@ Notable self-sovereign identity products and services that are in production.
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
+- [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
+- [SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP) - A TypeScript library for OpenID for Verifiable Presentations and Self-Issued OpenID Provider by Sphereon.
+
 
 ## 🎓 Tutorials & Guides
 
@@ -186,6 +189,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
 - [OpenID for Verifiable Presentations (OID4VP)](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-1_0.html) - A specification that allows for presenting verifiable presentations using OpenID.
 - [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.bitbucket.io/connect/openid-connect-self-issued-v2-1_0.html) - A specification that allows the end-user to control a OpenID Provider. This specification is commonly used in combination with OpenID for Verifiable Presentations.
+- [OpenID for Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html) - A specification that allows for exchanging OpenID Verifiable Presentations over BLE.
 ### Hyperledger
 - [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/blob/master/index.md) - Specifications of Aries protocols and standards.
 - [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
