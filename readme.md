@@ -95,7 +95,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 
-## 🛠 Tools & Technologiesgaa 
+## 🛠 Tools & Technologies
 
 - [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python) - An easy to use Aries agent for building SSI services using any language that supports sending/receiving HTTP requests.
 - [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet) - Provides a universal library for building Aries SSI applications for the cloud, mobile and IoT stack.
