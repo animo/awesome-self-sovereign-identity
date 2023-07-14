@@ -95,7 +95,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologiesgaa 
 
 - [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python) - An easy to use Aries agent for building SSI services using any language that supports sending/receiving HTTP requests.
 - [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet) - Provides a universal library for building Aries SSI applications for the cloud, mobile and IoT stack.
@@ -119,6 +119,9 @@ Notable self-sovereign identity products and services that are in production.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
 - [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
 - [SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP) - A TypeScript library for OpenID for Verifiable Presentations and Self-Issued OpenID Provider by Sphereon.
+- [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
+- [sd-jwt-ts](https://github.com/blu3beri/sd-jwt-ts) - A TypeScript implementation of the SD-JWT specification.
+- [did-core](https://github.com/blu3beri/did-core) - A TypeScript implementation of the DID core specification.
 
 
 ## 🎓 Tutorials & Guides
@@ -178,6 +181,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 ## 📄 Technical Specifications
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
+- [SD-JWT](https://www.ietf.org/archive/id/draft-fett-oauth-selective-disclosure-jwt-02.html) - Specification for selective disclosure for JWT based verifiable credentials.
 - [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
