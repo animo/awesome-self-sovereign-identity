@@ -120,9 +120,10 @@ Notable self-sovereign identity products and services that are in production.
 - [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
 - [SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP) - A TypeScript library for OpenID for Verifiable Presentations and Self-Issued OpenID Provider by Sphereon.
 - [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
+- [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
+- [sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js) - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
 - [sd-jwt-ts](https://github.com/blu3beri/sd-jwt-ts) - A TypeScript implementation of the SD-JWT specification.
 - [did-core](https://github.com/blu3beri/did-core) - A TypeScript implementation of the DID core specification.
-
 
 ## 🎓 Tutorials & Guides
 
