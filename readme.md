@@ -181,8 +181,8 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 ## 📄 Technical Specifications
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
-- [SD-JWT](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-07.html) - Specification for selective disclosure for JWT based verifiable credentials.
-- [SD-JWT-VC](https://www.ietf.org/archive/id/draft-ietf-oauth-sd-jwt-vc-02.html) - Specification for using SD-JWT as verifiable credentials.
+- [SD-JWT](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-08.html) - Specification for selective disclosure for JWT based verifiable credentials.
+- [SD-JWT-VC](https://www.ietf.org/archive/id/draft-ietf-oauth-sd-jwt-vc-03.html) - Specification for using SD-JWT as verifiable credentials.
 - [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
