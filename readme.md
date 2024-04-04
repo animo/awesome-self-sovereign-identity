@@ -186,7 +186,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [SD-JWT-VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) - Specification for using SD-JWT as verifiable credentials.
 - [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
 - [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
-- [DIF Linked Verifiable Presentation](https://identity.foundation/linked-vp) - A mechanism to publize Verifiable Credentials for easy discovery and access via a service entry in a DID Document.
+- [DIF Linked Verifiable Presentation](https://identity.foundation/linked-vp) - A mechanism to publicize Verifiable Credentials for easy discovery and access via a service entry in a DID Document.
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
 - [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
