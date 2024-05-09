@@ -79,12 +79,13 @@ Identity wallets for storing verifiable credentials.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
 - [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
-- [Walt.id](https://walt.id/wallet) - A cloud wallet by Walt.id + a framework for extending apps with SSI capabilities. 
+- [walt.id](https://walt.id/wallet) - white-label wallet solution by walt.id
 - [SSI Snap](https://github.com/blockchain-lab-um/ssi-snap/) - An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.
 
 Software development kits for building an identity wallet.
 
 - [Trinsic Mobile Wallet SDK](https://trinsic.id/mobile-wallet-sdk/) - A SDK by Trinsic to extend self-sovereign identity to mobile app.
+- [Walt.id Wallet Infrastructure](https://walt.id/wallet-infrastructure) - APIs and SDKs to build embedded, white-label, or mobile wallets.
 
 Notable self-sovereign identity products and services that are in production.
 
@@ -94,6 +95,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
 - [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
+- [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
 
 ## 🛠 Tools & Technologies
 
@@ -106,7 +108,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
 - [Indy SDK](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
 - [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-- [SSI Kit](https://walt.id/ssi-kit) - Open source infrastructure that offers everything developers need to use SSI (to build end-to-end use cases and applications).
+- [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
 - [Universal DID Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
 - [Universal DID Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
 - [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
@@ -139,7 +141,7 @@ High level:
 - [Lissi Demo](https://lissi.id/demo) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
 - [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
 - [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
-- [walt.id demo](https://walt.id/get-started)
+- [walt.id Demo](https://portal.walt.id/) - Issue and verify credentials via the walt.id portal.
 - [SSI Snap demo](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7) - In this demo, you will be able to obtain a credential presenting proof of competence that you can later use in DAO governance on our extended Snapshot.
 
 Low level:
