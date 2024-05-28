@@ -96,6 +96,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 - [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
+- [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP
 
 ## 🛠 Tools & Technologies
 
