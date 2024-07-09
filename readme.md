@@ -58,6 +58,7 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
 - [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledge base, uses color coding to indicate presumed level of familiarity.
 - [eSSIF-Lab Mental Models](https://essif-lab.github.io/framework/docs/essifLab-pattern-list) - A description of various mental models by eSSIF-Lab.
+- [CanDID: Can-Do Decentralized Identity](https://eprint.iacr.org/2020/934.pdf) - A highly-regarded academic publication featured in a leading venue. 
 
 ## 🏛️ Political, Legal and Ethical Implications
 
