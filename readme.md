@@ -71,10 +71,11 @@ What projects are out there using self-sovereign identity.
 
 Identity wallets for storing verifiable credentials.
 
-- [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
-- [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
+- [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
+- [Paradym Wallet](https://github.com/animo/paradym-wallet) - Mobile wallet to seamlessly manage and present your digital credentials.
 - [SSI Snap](https://github.com/blockchain-lab-um/ssi-snap/) - An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.
+- [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 
 Software development kits for building an identity wallet.
 
@@ -86,10 +87,11 @@ Notable self-sovereign identity products and services that are in production.
 - [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
 - [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 - [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
+- [Paradym](https://paradym.id/) - SaaS platform for building your SSI solutions.
 - [Trinsic](https://trinsic.id/) - An end-to-end self sovereign identity platform by Trinsic.
+- [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 - [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
-- [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 
 ## 🛠 Tools & Technologies
 
@@ -110,12 +112,13 @@ Notable self-sovereign identity products and services that are in production.
 - [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) - Expo Module for ISO 18013-5 Data Transfer.
 - [Expo Secure Environment](https://github.com/animo/expo-secure-environment) - Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.
 - [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
+- [mDOC Debugger](https://paradym.id/tools/mdoc) - An online mDOC debugger.
 - [mDOC](https://github.com/animo/mdoc) - TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).
 - [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
 - [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts) - TypeScript implementation of the OpenID Federation.
 - [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) - TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.
-- [Paradym Wallet](https://github.com/animo/paradym-wallet) - Mobile wallet to seamlessly manage and present your digital credentials.
 - [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm) - SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.
+- [SD-JWT VC Debugger](https://paradym.id/tools/sd-jwt-vc) - An online SD-JWT VC debugger.
 - [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
 - [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
 - [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
