@@ -55,6 +55,7 @@ To understand the philosophy of self-sovereign identity these starting guides an
 - [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
 - [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledge base, uses color coding to indicate presumed level of familiarity.
 - [eSSIF-Lab Mental Models](https://essif-lab.github.io/framework/docs/essifLab-pattern-list) - A description of various mental models by eSSIF-Lab.
+- [CanDID: Can-Do Decentralized Identity](https://eprint.iacr.org/2020/934.pdf) - A highly-regarded academic publication featured in a leading venue.
 
 ## 🏛️ Political, Legal and Ethical Implications
 
@@ -88,6 +89,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Trinsic](https://trinsic.id/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 - [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
+- [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 
 ## 🛠 Tools & Technologies
 
@@ -157,20 +159,22 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 
 ## 📄 Technical Specifications
 
-- [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
-- [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
 - [SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/) - Specification for selective disclosure for JWT based verifiable credentials.
 - [SD-JWT-VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) - Specification for using SD-JWT as verifiable credentials.
-- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/) - Specification of decentralized identifiers (DIDs).
-- [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
-- [DIF Linked Verifiable Presentation](https://identity.foundation/linked-vp) - A mechanism to publicize Verifiable Credentials for easy discovery and access via a service entry in a DID Document.
-- [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
-- [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
-- [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/) - A DID Configuration resource provides proof of a bi-directional relationship between the controller of an Internet domain and a DID.
 - [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
 - [OpenID for Verifiable Presentations (OID4VP)](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html) - A specification that allows for presenting verifiable presentations using OpenID.
 - [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html) - A specification that allows the end-user to control a OpenID Provider. This specification is commonly used in combination with OpenID for Verifiable Presentations.
 - [OpenID for Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html) - A specification that allows for exchanging OpenID Verifiable Presentations over BLE.
+- [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
+- [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
+- [W3C Verifiable Credentials Data Integrity](https://w3c.github.io/vc-data-integrity/) - Specifications describing mechanisms for ensuring the authenticity and integrity of structured digital documents using cryptography, such as digital signatures and other digital mathematical proofs (used to be LD Proofs).
+- [W3C Credential Handler API](https://w3c-ccg.github.io/credential-handler-api/) - Credential Handler API: specification defining capabilities that enable third-party Web applications to handle credential requests and storage events.
+- [W3C Decentralized Identifiers](https://www.w3.org/TR/did-1.0/) - Core specification of decentralized identifiers (DIDs).
+- [W3C Decentralized Identifier Extensions](https://www.w3.org/TR/did-extensions/) - Official registry for all known global parameters, properties, and values used by the Decentralized Identifier ecosystem.
+- [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
+- [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
+- [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
+- [DIF Linked Verifiable Presentation](https://identity.foundation/linked-vp) - A mechanism to publicize Verifiable Credentials for easy discovery and access via a service entry in a DID Document.
 - [Hyperledger Aries RFCs](https://github.com/decentralized-identity/aries-rfcs/blob/main/index.md) - Specifications of Aries protocols and standards.
 - [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
