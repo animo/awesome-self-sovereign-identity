@@ -94,23 +94,35 @@ Notable self-sovereign identity products and services that are in production.
 ## 🛠 Tools & Technologies
 
 - [ACA-Py](https://github.com/openwallet-foundation/acapy) - Foundation for building decentralized identity applications and services running in non-mobile environments.
-- [Credo](https://github.com/openwallet-foundation/credo-ts) - TypeScript framework for building decentralized identity and verifiable credential solutions.
+- [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs) - An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/) in Rust.
 - [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
-- [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-- [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
-- [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
-- [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
-- [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
-- [JavaScript: DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
-- [JavaScript: vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
-- [JavaScript: DID Resolver](https://github.com/decentralized-identity/did-resolver) - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
+- [Credo](https://github.com/openwallet-foundation/credo-ts) - TypeScript framework for building decentralized identity and verifiable credential solutions.
+- [DCQL Playground](https://github.com/animo/dcql-playground) - A playground to test DCQL queries against credentials.
+- [DCQL](https://github.com/openwallet-foundation-labs/dcql-ts) - TypeScript implementation of the Digital Credentials Query Language.
+- [DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
+- [DID Resolver](https://github.com/decentralized-identity/did-resolver) - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
-- [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
+- [did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods in Rust.
+- [DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
+- [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo) - An easy to set-up Aries and DIDComm v1 mediator built on Credo.
+- [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
+- [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) - Expo Module for ISO 18013-5 Data Transfer.
+- [Expo Secure Environment](https://github.com/animo/expo-secure-environment) - Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.
+- [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
+- [mDOC](https://github.com/animo/mdoc) - TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).
 - [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
-- [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
-- [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
+- [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts) - TypeScript implementation of the OpenID Federation.
+- [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) - TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.
+- [Paradym Wallet](https://github.com/animo/paradym-wallet) - Mobile wallet to seamlessly manage and present your digital credentials.
+- [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm) - SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.
 - [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
+- [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
+- [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
+- [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
+- [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
+- [vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
+- [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
 
 ## 🎓 Tutorials & Guides
 
