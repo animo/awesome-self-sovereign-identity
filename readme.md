@@ -5,27 +5,25 @@
 
 Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
 
-
 #### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Contents
 
 <!--lint disable awesome-list-item-->
 
-
 - [🌟 Getting Started](#-getting-started)
-- [🤔 Philosophy & Concepts](#-philosophy--concepts)
+- [🤔 Philosophy \& Concepts](#-philosophy--concepts)
 - [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
-- [💁‍♂️ Products & Services](#️-products--services)
-- [🛠 Tools & Technologies](#-tools--technologies)
-- [🎓 Tutorials & Guides](#-tutorials--guides)
+- [💁‍♂️ Products \& Services](#️-products--services)
+- [🛠 Tools \& Technologies](#-tools--technologies)
+- [🎓 Tutorials \& Guides](#-tutorials--guides)
 - [🎮 Demo's](#-demos)
 - [📡 Networks](#-networks)
 - [📚 Resources](#-resources)
 - [📄 Technical Specifications](#-technical-specifications)
 - [🎧 Podcasts](#-podcasts)
 - [📆 Events](#-events)
-- [💪 Contribute](#-contribute)
+- [📦 Stale Projects](#-stale-projects)
 - [🖋️ License](#️-license)
 
 <!--lint enable awesome-list-item-->
@@ -45,7 +43,6 @@ Next step is to check out some other beginners guides and video's in the Philoso
 To understand the philosophy of self-sovereign identity these starting guides and explanations have been collected.
 
 - [A Beginner's Guide to Self-Sovereign Identity](https://domilabs.io/beginners-guide-ssi/) - Non technical article on the concept of SSI and its pillars and values.
-- [Self-Sovereign Identity (SSI) Foam Figure Explainer](https://www.youtube.com/watch?v=81GkdBRmsbE) - An explanation of SSI using an example of renting a car. Includes a comparison of SSI and traditional identity models.
 - [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
 - [Decentralized Identity — Owning It!](https://medium.com/p/94987f97649f) - An intro on decentralized identities and a tutorial on using Veramo CLI.
 - [The Path To Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - Article that originally explained and coined the term self-sovereign identity, starts with different identity models as a whole.
@@ -73,13 +70,9 @@ What projects are out there using self-sovereign identity.
 
 Identity wallets for storing verifiable credentials.
 
-- [Connect.me Wallet](https://connect.me/) - An identity wallet built by Evernym.
-- [esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) - A mobile wallet by esatus.
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
 - [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
 - [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
-- [Spherity Cloud Identity Wallet](https://spherity.com/cloud-identity-wallet/) - An institutional agent by Spherity hosted in the cloud.
-- [walt.id](https://walt.id/wallet) - white-label wallet solution by walt.id
 - [SSI Snap](https://github.com/blockchain-lab-um/ssi-snap/) - An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.
 
 Software development kits for building an identity wallet.
@@ -92,21 +85,15 @@ Notable self-sovereign identity products and services that are in production.
 - [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
 - [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 - [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
-- [Tykn Products and Services](https://tykn.tech/product-suite/) - Various self-sovereign identity projects by Tykn, such as a mobile wallet, a web wallet and an end-to-end SSI platform.
-- [Trinsic Studio](https://trinsic.id/trinsic-studio/) - An end-to-end self sovereign identity platform by Trinsic.
+- [Trinsic](https://trinsic.id/) - An end-to-end self sovereign identity platform by Trinsic.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 - [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
 
 ## 🛠 Tools & Technologies
 
-- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python) - An easy to use Aries agent for building SSI services using any language that supports sending/receiving HTTP requests.
-- [Aries Framework .NET](https://github.com/hyperledger/aries-framework-dotnet) - Provides a universal library for building Aries SSI applications for the cloud, mobile and IoT stack.
-- [Aries Framework Go](https://github.com/hyperledger/aries-framework-go) - A flexible toolkit to enable the usage of DIDs, DIDComm and verifiable credential exchange.
-- [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) - A framework for building SSI agents and DIDComm services for desktop, mobile and in the cloud, built using TypeScript.
-- [Aries Mobile Agent React Native](https://github.com/hyperledger/aries-mobile-agent-react-native) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
-- [Aries Mobile Agent Xamarin](https://github.com/hyperledger/aries-mobileagent-xamarin) - An open source Aries mobile agent build with Xamarin and Aries Framework .NET.
-- [Aries Toolbox](https://github.com/hyperledger/aries-toolbox) - Tools for developing agents and testing that they are compatible with other agents in the ecosystem.
-- [Indy SDK](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
+- [ACA-Py](https://github.com/openwallet-foundation/acapy) - Foundation for building decentralized identity applications and services running in non-mobile environments.
+- [Credo](https://github.com/openwallet-foundation/credo-ts) - TypeScript framework for building decentralized identity and verifiable credential solutions
+- [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
 - [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
 - [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
 - [Universal DID Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
@@ -114,41 +101,33 @@ Notable self-sovereign identity products and services that are in production.
 - [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
 - [JavaScript: DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
 - [JavaScript: vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
-- [JavaScript: vc.js](https://github.com/transmute-industries/vc.js) - Support Verifiable Credentials in JavaScript.
 - [JavaScript: DID Resolver](https://github.com/decentralized-identity/did-resolver) - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [Rust: did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods.
 - [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
-- [SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP) - A TypeScript library for OpenID for Verifiable Presentations and Self-Issued OpenID Provider by Sphereon.
 - [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
 - [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
-- [sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js) - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
-- [sd-jwt-ts](https://github.com/blu3beri/sd-jwt-ts) - A TypeScript implementation of the SD-JWT specification.
-- [did-core](https://github.com/blu3beri/did-core) - A TypeScript implementation of the DID core specification.
+- [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
 
 ## 🎓 Tutorials & Guides
 
 - [Aries Framework JavaScript Tutorials](https://www.youtube.com/playlist?list=PLopHpZBbk8wM4FRFZl3LXeAhz6fbX4_lk) - A playlist of useful beginner tutorials on how to use Aries Framework JavaScript.
-- [MATTR VII Tutorials](https://learn.mattr.global/tutorials/) - Various tutorials by MATTR on how to work with their VII platform.
+- [MATTR Learn](https://learn.mattr.global/) - Various tutorials by MATTR on how to work with their digital credentials platform.
 
 ## 🎮 Demo's
 
 High level:
 
-- [Animo Demo](https://demo.animo.id/) - Our own demo lets you pick a character and experience digital verification through their world. See how easy it is to work, travel or study using verifiable credentials!
-- [Evernym Demo](https://try.connect.me/#/) - In this demo you'll explore digital credentials with Alice, who just landed her dream job and is preparing to buy her first house using the Connect Me App.
-- [Lissi Demo](https://lissi.id/demo) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
-- [Uport Demo](https://uportlandia.uport.me/) - Before Veramo and Serto, Uport created this lovely demo in which you play around in a city where verifiable credentials are everywhere.
-- [Selv demo](https://selv.iota.org/demo/select) - At Iota they do it all, including digital identity. This demo uses real partnerships to show you how verifiable credentials will impact day to day life.
+- [Lissi Demo](https://www.lissi.id/eudi-wallet-demo-start) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
 - [walt.id Demo](https://portal.walt.id/) - Issue and verify credentials via the walt.id portal.
 - [SSI Snap demo](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7) - In this demo, you will be able to obtain a credential presenting proof of competence that you can later use in DAO governance on our extended Snapshot.
 
 Low level:
 
-- [AJF Demo](https://github.com/hyperledger/aries-framework-javascript/tree/main/demo) - Walk through the AFJ flow yourself together with agents Alice and Faber in this demo.
-- [ACA-Py Demo](https://github.com/hyperledger/aries-cloudagent-python/tree/main/demo) - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
-- [Aries OpenAPI demo](https://github.com/hyperledger/aries-cloudagent-python/blob/main/demo/AriesOpenAPIDemo.md#using-the-openapiswagger-user-interface)
+- [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
+- [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
+- [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
 
 ## 📡 Networks
 
@@ -161,20 +140,15 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 
 - [In Search of Self-Sovereign Identity Leveraging Blockchain technology](https://ieeexplore.ieee.org/document/8776589) - Article about finding a mathematical definition for SSI.
 - [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) - Concrete example scenarios that make use of Verifiable Credentials.
-- [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/) - Exploration of the place blockchain has in SSI.
 - [W3C DID use cases](https://www.w3.org/TR/did-use-cases/) - List W3C requirements and specifications.
 - [Matching Identity Management Solutions to Self-Sovereign Identity Principles](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles) - A list and comparison of nearly 50 identity management solutions based on SSI requirements.
-- [Become a Hyperledger Aries Developer](https://www.edx.org/course/becoming-a-hyperledger-aries-developer) - Quick course on how to get started with Hyperledger Aries.
-- [Become a Hyperledger Indy Developer](https://github.com/hyperledger/aries-cloudagent-python/blob/main/docs/GettingStartedAriesDev/README.md) - Quick course on how to get started with Hyperledger Indy.
+- [Become a ACA-Py Developer](https://github.com/openwallet-foundation/acapy/tree/main/docs/gettingStarted) - Quick course on how to get started with ACA-Py.
 - [Identosphere](https://newsletter.identosphere.net) - A newsletter providing the latest news in decentralized identity to your inbox each week.
-- [Technometrica](http://news.windley.com) - Phil Windley's attempt to make sense of the technology that interests him.
-- [Tykn newsletter](https://tykn.tech/subscribe-newsletter) - A monthly curated compilation of digital identity content.
 - [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs.
-- [SSI Wallets](https://github.com/Gimly-Blockchain/ssi-wallets) - An overview of SSI wallets, by [Gimly](https://gimly.io)
 - [Introduction to Digital Identity](https://walt.id/decentralized-identity-explained/digital-identity)
 - [Me, myself & (SS)I - co-authored by the Boston Consulting Group](https://static1.squarespace.com/static/609c0ddf94bcc0278a7cbdb4/t/623432727b5ccc4ad8876739/1647587956223/White+Paper+-+Self-Sovereign+Identity+%28SSI%29+%7C+BCG+x+walt.id.pdf)
-- [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts)
-- [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts)
+- [Introduction to NFTs for Identity](https://walt.id/white-paper/nfts-for-identity)
+- [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/white-paper/ssi-vs-nfts)
 - [The Pilot Playbook - How to build SSI Pilots](https://walt.id/playbooks)
 - [eSSIF-Lab Glossary](https://essif-lab.github.io/framework/docs/essifLab-glossary) - A glossary by eSSIF-Lab describing various terms commonly used in the space of SSI.
 - [Overview of Frameworks & SDKs](https://europeanblockchainassociation.org/ssi-frameworks-sdks-overview/) - An overview of various SSI frameworks and SDKs by the European Blockchain Association.
@@ -182,6 +156,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
 
 ## 📄 Technical Specifications
+
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
 - [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
 - [SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/) - Specification for selective disclosure for JWT based verifiable credentials.
@@ -192,17 +167,19 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
 - [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
 - [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/) - A DID Configuration resource provides proof of a bi-directional relationship between the controller of an Internet domain and a DID.
-- [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
-- [OpenID for Verifiable Presentations (OID4VP)](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-1_0.html) - A specification that allows for presenting verifiable presentations using OpenID.
-- [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.bitbucket.io/connect/openid-connect-self-issued-v2-1_0.html) - A specification that allows the end-user to control a OpenID Provider. This specification is commonly used in combination with OpenID for Verifiable Presentations.
+- [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
+- [OpenID for Verifiable Presentations (OID4VP)](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html) - A specification that allows for presenting verifiable presentations using OpenID.
+- [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html) - A specification that allows the end-user to control a OpenID Provider. This specification is commonly used in combination with OpenID for Verifiable Presentations.
 - [OpenID for Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html) - A specification that allows for exchanging OpenID Verifiable Presentations over BLE.
-- [Hyperledger Aries RFCs](https://github.com/hyperledger/aries-rfcs/blob/master/index.md) - Specifications of Aries protocols and standards.
+- [Hyperledger Aries RFCs](https://github.com/decentralized-identity/aries-rfcs/blob/main/index.md) - Specifications of Aries protocols and standards.
 - [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) - Specifications of Indy protocols and standards.
 - [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
+
 ## 🎧 Podcasts
+
 - [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
 - [The Rubric](https://plinkhq.com/i/1568335990/e/?to=page) - A podcast aimed at helping you understand the technologies behind decentralized identity such as decentralized identifiers (DIDs), DID documents and DID methods.
-- [The Future of Identity](https://trinsic.id/podcast) - The Future of Identity podcast talks to the people building the IDtech products of tomorrow. In every episode, you'll gain invaluable insights as founders and product builders share how they have successfully gone-to-market with an identity product.
+- [The Future of Identity](https://trinsic.id/podcast) - Podcast that talks to the people building the IDtech products of tomorrow. In every episode, you'll gain invaluable insights as founders and product builders share how they have successfully gone-to-market with an identity product.
 
 ## 📆 Events
 
@@ -211,32 +188,15 @@ Notable events concerning self-sovereign identity.
 - [SSIMeetup](https://ssimeetup.org) - An open, collaborative community to help SSI evangelists around the world, independent of company interests or standards.
 - [Internet Identity Workshop](https://internetidentityworkshop.com/) - An event that is held twice every year that discusses user-centric identity related topics and technologies.
 
+## 📦 Stale Projects
+
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
+
+<!--lint ignore awesome-list-item-->
+[View the list of stale projects here](./stale.md)
+
 ## 🖋️ License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Animo Solutions has waived all copyright and
-related or neighboring rights to this work.
-
-<!-- ## Other / Uncategorized
-
-
-- [Decentralized Identity Foundation (DIF)](https://identity.foundation/) - An engineering-driven organization focused on developing the foundational elements necessary to establish an open ecosystem for decentralized identity and ensure interoperability between all participants.
-- [Hyperledger Foundation](https://www.hyperledger.org/) - Open source community focused on developing SSI frameworks, tools and libraries.
-- [Trust over IP Foundation (TOIP)](https://trustoverip.org/) - Foundation aimed at defining SSI architecture.
-- W3C
-- d
-
-- [The Verifiable Organizations Network (VON)](https://github.com/bcgov/von)
-
-## Awesome list
-
-### Mentione badge
-
-```
-[![Mentioned in Awesome Self-Sovereign Identity](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/animo/awesome-self-sovereign-identity)
-```
-
-### Awesome linter
-
-https://github.com/sindresorhus/awesome-lint -->
+To the extent possible under law, Animo Solutions has waived all copyright and related or neighboring rights to this work.
