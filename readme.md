@@ -92,12 +92,12 @@ Notable self-sovereign identity products and services that are in production.
 ## 🛠 Tools & Technologies
 
 - [ACA-Py](https://github.com/openwallet-foundation/acapy) - Foundation for building decentralized identity applications and services running in non-mobile environments.
-- [Credo](https://github.com/openwallet-foundation/credo-ts) - TypeScript framework for building decentralized identity and verifiable credential solutions
+- [Credo](https://github.com/openwallet-foundation/credo-ts) - TypeScript framework for building decentralized identity and verifiable credential solutions.
 - [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
 - [IOTA Identity](https://github.com/iotaledger/identity.rs) - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
 - [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
-- [Universal DID Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
-- [Universal DID Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
+- [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
+- [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
 - [JavaScript: DID Client (did-io)](https://github.com/digitalbazaar/did-io) - A DID resolution library for JavaScript.
 - [JavaScript: DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
 - [JavaScript: vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
@@ -190,10 +190,13 @@ Notable events concerning self-sovereign identity.
 
 ## 📦 Stale Projects
 
+<!--lint disable double-link-->
+
 We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
 
-<!--lint ignore awesome-list-item-->
 [View the list of stale projects here](./stale.md)
+
+<!--lint enable double-link-->
 
 ## 🖋️ License
 
