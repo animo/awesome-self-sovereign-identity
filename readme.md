@@ -139,6 +139,8 @@ High level:
 - [Lissi Demo](https://www.lissi.id/eudi-wallet-demo-start) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
 - [walt.id Demo](https://portal.walt.id/) - Issue and verify credentials via the walt.id portal.
 - [SSI Snap demo](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7) - In this demo, you will be able to obtain a credential presenting proof of competence that you can later use in DAO governance on our extended Snapshot.
+- [CAVS – Credibility Assessment and Verification System](https://github.com/caltr98/CAVS) - Dockerized web application demonstrating how Self-Sovereign Identity (DIDs and Verifiable Credentials) combined with AI/NLP can assess content credibility and mitigate online misinformation.
+- [SSI RoboTaxi VP Multi-Holder Demo](https://github.com/caltr98/SSI-RoboTaxi-VPMulti-Holder) - End-to-end demo showcasing experimental Multi-Holder Verifiable Presentation flows in a smart mobility scenario, illustrating how multiple identities and credentials can be combined and verified using SSI technologies.
 
 Low level:
 
