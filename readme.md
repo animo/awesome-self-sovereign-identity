@@ -96,6 +96,7 @@ Notable self-sovereign identity products and services that are in production.
 ## 🛠 Tools & Technologies
 
 - [ACA-Py](https://github.com/openwallet-foundation/acapy) - Foundation for building decentralized identity applications and services running in non-mobile environments.
+- [AIP (Agent Identity Protocol)](https://github.com/The-Nexus-Guard/aip) - Decentralized identity and trust layer for AI agents using Ed25519 DIDs, vouch-based trust chains, and encrypted messaging. Python SDK with CLI.
 - [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs) - An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/) in Rust.
 - [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
 - [Credo](https://github.com/openwallet-foundation/credo-ts) - TypeScript framework for building decentralized identity and verifiable credential solutions.
