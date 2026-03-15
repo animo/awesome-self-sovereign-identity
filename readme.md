@@ -126,6 +126,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
 - [vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
 - [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
+- [AIP (Agent Identity Protocol)](https://github.com/The-Nexus-Guard/aip) - Ed25519 identity, vouch chains with trust decay, PDR behavioral scoring, E2E encrypted messaging, and W3C Verifiable Credentials for AI agents. Pure Python, no blockchain required.
 
 ## 🎓 Tutorials & Guides
 
