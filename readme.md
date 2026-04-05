@@ -147,6 +147,7 @@ Low level:
 - [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
 
 ## 📡 Networks
+- [Hashgraph Online](https://hol.org) - Open identity and trust standards for AI agents on Hedera. Universal Agent IDs (UAIDs) for cross-protocol identity, verifiable credentials, and trustless P2P communication (HCS-10, HCS-11, HCS-14).
 
 - [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy.
 - [Cheqd Network](https://www.cheqd.io) - An identity network that enables payment rails between issuer, holder & verifier.
