@@ -106,6 +106,7 @@ Notable self-sovereign identity products and services that are in production.
   - [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   - [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 - [did-key.rs](https://github.com/decentralized-identity/did-key.rs) - Provide basic support for `did:key` methods in Rust.
+- [did:aip](https://github.com/dr-wilson-empty/aip-beta) - W3C-conformant DID method and open-source resolver for autonomous AI agent identity on Solana, registered in the W3C did-extensions registry, with a DIF Universal Resolver driver.
 - [DID](https://github.com/ceramicnetwork/js-did) - A simple library to interact with DIDs that conform to the DID-provider interface.
 - [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo) - An easy to set-up Aries and DIDComm v1 mediator built on Credo.
 - [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
