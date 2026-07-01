@@ -129,6 +129,7 @@ Notable self-sovereign identity products and services that are in production.
 
 ## 🎓 Tutorials & Guides
 
+- [CIAM.wiki](https://ciam.wiki) — Vendor-neutral encyclopedia of Customer Identity (CIAM) — concepts, comparisons, and a market map.
 - [Aries Framework JavaScript Tutorials](https://www.youtube.com/playlist?list=PLopHpZBbk8wM4FRFZl3LXeAhz6fbX4_lk) - A playlist of useful beginner tutorials on how to use Aries Framework JavaScript.
 - [MATTR Learn](https://learn.mattr.global/) - Various tutorials by MATTR on how to work with their digital credentials platform.
 
