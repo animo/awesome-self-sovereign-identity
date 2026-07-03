@@ -92,6 +92,7 @@ Notable self-sovereign identity products and services that are in production.
 - [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 - [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
+- [Memdeklaro](https://memdeklaro.org) - Memdeklaro - Self-declaration of identity is an ethical, privacy-respecting alternative to centralized ID.
 
 ## 🛠 Tools & Technologies
 
