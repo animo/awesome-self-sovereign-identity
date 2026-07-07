@@ -171,6 +171,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 - [Overview of Frameworks & SDKs](https://europeanblockchainassociation.org/ssi-frameworks-sdks-overview/) - An overview of various SSI frameworks and SDKs by the European Blockchain Association.
 - [Overview of SSI Wallets](https://europeanblockchainassociation.org/ssi-wallets/) - An overview of various SSI wallets by the European Blockchain Association.
 - [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
+- [CIAM.wiki: Decentralized Identity](https://ciam.wiki/decentralized-identity) - A vendor-neutral primer on decentralized identity, DIDs, and verifiable credentials, framed for customer identity teams.
 
 ## 📄 Technical Specifications
 
