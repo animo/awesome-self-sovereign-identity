@@ -117,6 +117,7 @@ Notable self-sovereign identity products and services that are in production.
 - [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
 - [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts) - TypeScript implementation of the OpenID Federation.
 - [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) - TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.
+- [polaris-oid4vp](https://github.com/EgorKhaklin/polaris-id/tree/main/packages/polaris-oid4vp) - Python OpenID4VP 1.0 + HAIP verifier for SD-JWT VC, with a CLI for testing wallets; 1.0.0rc7 is OpenID Certified.
 - [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm) - SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.
 - [SD-JWT VC Debugger](https://paradym.id/tools/sd-jwt-vc) - An online SD-JWT VC debugger.
 - [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
