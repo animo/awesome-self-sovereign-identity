@@ -125,6 +125,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) - Universal DID registrar implementation and method specific drivers.
 - [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) - Universal DID resolver implementation and method specific drivers.
 - [vc-js](https://github.com/digitalbazaar/vc-js) - A JavaScript library for issuing and verifying Verifiable Credentials.
+- [Voidly Agent SDK](https://www.npmjs.com/package/@voidly/agent-sdk) - TypeScript SDK for agent-to-agent messaging; it encrypts message content on the client (Double Ratchet, X3DH, ML-KEM-768 hybrid) and the relay sees sender and recipient DIDs. Uses self-certifying identifiers (`did:voidly:` = base58(Ed25519-pubkey[0..16])) with no central authority, and exposes a Google A2A v0.3.0 compliant Agent Card at `/.well-known/agent-card.json`.
 - [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one open-source identity and wallet toolkit.
 
 ## 🎓 Tutorials & Guides
